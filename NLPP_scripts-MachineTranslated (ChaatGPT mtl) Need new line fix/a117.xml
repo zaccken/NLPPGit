@@ -166,7 +166,7 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>So, I'm worried about
 this book, recommended
 by the library committee.
@@ -408,7 +408,7 @@ it!</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲ is... Ah, there
 was.</Dialog>
           <Dialog>▲姉ヶ崎＊▲!</Dialog>
@@ -636,7 +636,7 @@ a bit too much...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right, I have
 to read the Momoko no
 Kaku!</Dialog>
@@ -769,7 +769,7 @@ a bit too much...)</Dialog>
           <Dialog>Hey, I thought about
 it for a moment, is that
 okay？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, what？</Dialog>
           <Dialog>Since you're going to
 have the opportunity
@@ -1560,7 +1560,7 @@ someone to finish reading.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Yes, then, concentrate...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, concentrate...</Dialog>
         </Dialogs>
       </SDL2>
@@ -1617,7 +1617,7 @@ someone to finish reading.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Haa...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>yeah？ ...Ah, maybe.</Dialog>
           <Dialog>I've finished reading
 it! Yay, huh!</Dialog>
@@ -1755,7 +1755,7 @@ you gone even further？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Still more. It's the
 beginning...</Dialog>
           <Dialog>I've just started reading</Dialog>
@@ -1798,7 +1798,7 @@ beginning...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Middle. Maybe it's the
 turnaround point...</Dialog>
           <Dialog>I read up to chapter
@@ -1842,7 +1842,7 @@ turnaround point...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's almost over. It's
 finally reaching its
 climax...</Dialog>
@@ -1896,7 +1896,7 @@ climax...</Dialog>
           <Dialog>Um... Ah, maybe I'm a
 little earlier？ Okay,
 read more slowly...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(●, too, hurry up a little...)</Dialog>
           <Dialog>Oh, I'm a little faster.
 Hehe...</Dialog>
@@ -1941,7 +1941,7 @@ Hehe...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hmm... is it quite slow
 to read？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(●, too, hurry up a little...)</Dialog>
           <Dialog>I see. Well, please do
 your best.</Dialog>
@@ -1987,7 +1987,7 @@ your best.</Dialog>
           <Dialog>That means... Ah, I'm
 a little earlier. Okay,
 let's do our best...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(●, too, hurry up a little...)</Dialog>
           <Dialog>Oh, Nene-chan is dominant!</Dialog>
         </Dialogs>
@@ -2032,7 +2032,7 @@ let's do our best...</Dialog>
           <Dialog>So...oh, it's about as
 much as me. Yes, I'll
 do my best at this rate...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Yes. That's nice, this
 kind of thing...)</Dialog>
           <Dialog>Oh, about the same place.
@@ -2079,7 +2079,7 @@ Hehe, I feel good.</Dialog>
           <Dialog>That means... yes, about
 the same. Don't go first？
 good？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Yes. That's nice, this
 kind of thing...)</Dialog>
           <Dialog>So, it's about as much
@@ -2128,7 +2128,7 @@ fine.</Dialog>
 the same. Okay, okay.
 Let's make sure to match
 the page properly, right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Yes. That's nice, this
 kind of thing...)</Dialog>
           <Dialog>Oh, I'm about the same.
@@ -2174,7 +2174,7 @@ But I'm in love ▼Hehe!</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Huh, already？ I see...Okay,
 I'll do my best too.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(I'll read it a little
 more slowly...)</Dialog>
           <Dialog>I see... concentrate.
@@ -2220,7 +2220,7 @@ Nene-chan, do your best.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Oh, ahead of me？ No no.
 wait a minute.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(I'll read it a little
 more slowly...)</Dialog>
           <Dialog>It's already too early.
@@ -2267,7 +2267,7 @@ go ahead？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Huh？ I'm sure I shouldn't
 go ahead...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(I'll read it a little
 more slowly...)</Dialog>
           <Dialog>What？ It's just because
@@ -2306,7 +2306,7 @@ concentrated...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hey, ▲姉ヶ崎＊▲.</Dialog>
         </Dialogs>
       </SDL2>
@@ -2341,7 +2341,7 @@ concentrated...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Where are you reading
 now？</Dialog>
         </Dialogs>
@@ -2367,7 +2367,7 @@ now？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Okay, I'll leave it here
 for today!</Dialog>
           <Dialog>Nene</Dialog>
@@ -2396,7 +2396,7 @@ already？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Okay, I'll leave it here
 for today!</Dialog>
           <Dialog>Nene</Dialog>
@@ -2425,7 +2425,7 @@ it was a good place...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Okay, I'll leave it here
 for today!</Dialog>
           <Dialog>Nene</Dialog>
@@ -2474,7 +2474,7 @@ read quite a bit too.</Dialog>
           <Dialog>Well... okay, it's over.
 Hey, why don't you just
 do it today？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>OK.</Dialog>
           <Dialog>Haa...I read it, I'm
 tired, won't I take it
@@ -2561,7 +2561,7 @@ it.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>*.</Dialog>
           <Dialog>I've just started reading</Dialog>
           <Dialog>I read up to chapter
@@ -2603,7 +2603,7 @@ it.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>*.</Dialog>
           <Dialog>I read up to chapter
 4</Dialog>
@@ -2646,7 +2646,7 @@ it.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>*.</Dialog>
           <Dialog>I read up to chapter
 8</Dialog>
@@ -2934,7 +2934,7 @@ after a marathon.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲What？</Dialog>
         </Dialogs>
       </SDL2>
@@ -3186,7 +3186,7 @@ made a mistake! I thought
 so but...</Dialog>
           <Dialog>After that, it suddenly
 felt fantastic, right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah... yes, certainly.</Dialog>
           <Dialog>I was surprised that
 it was quite different
@@ -3325,7 +3325,7 @@ have so many words that
 you don't understand,
 such as the old kana
 spelling...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What, what's wrong？</Dialog>
           <Dialog>There's a lot of people
 coming out, right？ Can
@@ -3448,7 +3448,7 @@ wrong, already!</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, did you get the
 trick？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Trick？</Dialog>
           <Dialog>See, Kanako has disappeared,
 right？ Suddenly, in the
@@ -3577,7 +3577,7 @@ I might not like it...</Dialog>
           <Dialog>It's finally appeared.
 Akihiko Chuzenji, also
 known as Kyogokudo.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, I thought it wouldn't
 come out anymore.</Dialog>
           <Dialog>Hehe, he's very smart
@@ -3709,7 +3709,7 @@ isn't it？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, I was thinking about
 it...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>what？</Dialog>
           <Dialog>Dr. Mimasaka was researching
 immortality, right？ And
@@ -3846,7 +3846,7 @@ Hmm, isn't it？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey hey, Enokizu came
 out, right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, you're a crazy detective,
 right？</Dialog>
           <Dialog>oh yeah. It's the exact
@@ -3986,7 +3986,7 @@ would search for him,
 and suddenly he became
 kind, but that's suspicious,
 isn't it？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>...Is that so？</Dialog>
           <Dialog>In "The Daughter in the
 Box," the main character
@@ -4129,7 +4129,7 @@ is still safe...</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>I don't know...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What's that about？</Dialog>
           <Dialog>Yoriko-chan, why is he
 following Kubo？ After
@@ -4277,7 +4277,7 @@ that. Hmm...</Dialog>
           <Dialog>already……. What does
 that mean？ I really don't
 understand...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Which side？</Dialog>
           <Dialog>After all, Kubo was the
 culprit for the dismemberment
@@ -4403,7 +4403,7 @@ tell me exactly!</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Haa...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>what happened？</Dialog>
           <Dialog>The truth about everything
 is getting clearer, right？
@@ -4454,7 +4454,7 @@ feels strange...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah! I've finished reading!</Dialog>
         </Dialogs>
       </SDL2>
@@ -4617,7 +4617,7 @@ I'll read it too!</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>"The Monk's Box"... ▲姉ヶ崎＊▲,
 how about finishing reading？</Dialog>
           <Dialog>Nene</Dialog>
@@ -4753,7 +4753,7 @@ it？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>"The Momo no Kano"...▲姉ヶ崎＊▲,
 how about finishing reading？</Dialog>
           <Dialog>Nene</Dialog>
@@ -4894,7 +4894,7 @@ it？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>"The Momo no Kano"...▲姉ヶ崎＊▲,
 how about finishing reading？</Dialog>
           <Dialog>Nene</Dialog>
@@ -5091,7 +5091,7 @@ a lot of difficult words,
 right？ I'm sure the number
 of pages is amazing too,
 right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>yes. Well, I managed
 to manage it. hey？</Dialog>
           <Dialog>Nene</Dialog>
@@ -5281,7 +5281,7 @@ a lot of difficult words,
 right？ I'm sure the number
 of pages is amazing too,
 right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Huh？ Um, um...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>yes. Well, you did a

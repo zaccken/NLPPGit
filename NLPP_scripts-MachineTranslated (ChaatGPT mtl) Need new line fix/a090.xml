@@ -36,7 +36,7 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What if it's ▲姉ヶ崎＊▲？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Yes, me. ...Do you have
@@ -81,7 +81,7 @@ time now？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What if it's ▲姉ヶ崎＊▲？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Yeah. I have a bit of
@@ -128,7 +128,7 @@ what…….</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What if it's ▲姉ヶ崎＊▲？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Yes, that's right. Is
@@ -378,7 +378,7 @@ it okay？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Is there a place you
 want to go？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Then...</Dialog>
         </Dialogs>
       </SDL2>
@@ -405,7 +405,7 @@ want to go？</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>So, where shall we go？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Umm...</Dialog>
         </Dialogs>
       </SDL2>
@@ -433,7 +433,7 @@ want to go？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I wonder what to do...Yes,
 I'll let you choose.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Umm...</Dialog>
         </Dialogs>
       </SDL2>
@@ -460,7 +460,7 @@ I'll let you choose.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>nice. I agree too.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>So let's go here.</Dialog>
         </Dialogs>
       </SDL2>
@@ -488,7 +488,7 @@ I'll let you choose.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Yes, perfect. I like
 that too.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>If so, then it's decided
 here.</Dialog>
         </Dialogs>
@@ -516,7 +516,7 @@ here.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>OK. Let's go there.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Okay, it's decided!</Dialog>
         </Dialogs>
       </SDL2>
@@ -545,7 +545,7 @@ here.</Dialog>
           <Dialog>Umm... there... Maybe
 somewhere else can't
 do it？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>yes？ So...</Dialog>
         </Dialogs>
       </SDL2>
@@ -573,7 +573,7 @@ do it？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hmm. Would you like to
 choose a better place？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm... that's it...</Dialog>
         </Dialogs>
       </SDL2>
@@ -601,7 +601,7 @@ choose a better place？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>There？ Hmm... sorry,
 pass.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Understood. So let's
 go somewhere else.</Dialog>
         </Dialogs>
@@ -629,7 +629,7 @@ go somewhere else.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>All that's left is time.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Then...</Dialog>
         </Dialogs>
       </SDL2>
@@ -656,7 +656,7 @@ go somewhere else.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>When will you meet？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Then...</Dialog>
         </Dialogs>
       </SDL2>
@@ -684,7 +684,7 @@ go somewhere else.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>You have to decide the
 time too, right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Umm...</Dialog>
         </Dialogs>
       </SDL2>
@@ -712,7 +712,7 @@ time too, right？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>good. I'm looking forward
 to it...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, too.</Dialog>
         </Dialogs>
       </SDL2>
@@ -741,7 +741,7 @@ to it...</Dialog>
           <Dialog>Are you taking notes？
 Because you shouldn't
 forget, right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>You know. I'll never
 forget.</Dialog>
         </Dialogs>
@@ -771,7 +771,7 @@ forget.</Dialog>
           <Dialog>It was abrupt, but I'm
 glad I asked. Thank you,
 right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, that's good.</Dialog>
         </Dialogs>
       </SDL2>
@@ -799,7 +799,7 @@ right？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I'm glad you chose the
 location after all.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(It looks like I've chosen
 a good location...)</Dialog>
         </Dialogs>
@@ -828,7 +828,7 @@ a good location...)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I invited you from here,
 I got a location decided.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's fine, that's it.</Dialog>
         </Dialogs>
       </SDL2>
@@ -856,7 +856,7 @@ I got a location decided.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>You chose the place properly,
 so it's amazing.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Haha, that much.</Dialog>
         </Dialogs>
       </SDL2>
@@ -884,7 +884,7 @@ so it's amazing.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Yes... Sometimes things
 don't work.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Next time I'll invite
 you from here.</Dialog>
         </Dialogs>
@@ -917,7 +917,7 @@ you from here.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Okay, I'll give up...
 It's not there.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Sorry, I'm also sorry.</Dialog>
         </Dialogs>
       </SDL2>
@@ -945,7 +945,7 @@ It's not there.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hmm, sorry... Would you
 invite me again？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, I'll also contact
 you from ●.</Dialog>
         </Dialogs>

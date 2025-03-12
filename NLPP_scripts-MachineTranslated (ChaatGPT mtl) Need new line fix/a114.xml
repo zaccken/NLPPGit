@@ -35,7 +35,7 @@
           <Dialog>Hey, I want to buy some
 clothes today. Is it
 okay？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Choosing clothes...</Dialog>
           <Dialog>Looks fun</Dialog>
           <Dialog>Let's stop today</Dialog>
@@ -75,7 +75,7 @@ okay？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I want to choose clothes
 today. Do you date？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right...</Dialog>
           <Dialog>It's fine</Dialog>
           <Dialog>Let's do something else</Dialog>
@@ -115,7 +115,7 @@ today. Do you date？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Today I want to go buy
 some clothes. good？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Shopping...</Dialog>
           <Dialog>I'll date</Dialog>
           <Dialog>Don't you do anything
@@ -228,7 +228,7 @@ shop</Dialog>
           <Dialog>Can you tell me what
 kind of clothes would
 suit me？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>●As...</Dialog>
           <Dialog>It's nice to be cute</Dialog>
           <Dialog>It's a neat and tidy
@@ -402,7 +402,7 @@ maybe？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yeah…….</Dialog>
           <Dialog>That's good</Dialog>
           <Dialog>Let's look at another
@@ -430,7 +430,7 @@ one too</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right...</Dialog>
           <Dialog>Let's do this</Dialog>
           <Dialog>Are there other things？</Dialog>
@@ -467,7 +467,7 @@ one too</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(I have to decide on
 it properly)</Dialog>
           <Dialog>Then...</Dialog>

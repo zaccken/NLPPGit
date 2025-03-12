@@ -38,7 +38,7 @@
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Yes. What？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I'd like to share some
 plans...</Dialog>
           <Dialog>If we can be together,
@@ -85,7 +85,7 @@ have a break. Fake...hehe.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>hello. what happened？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is it okay to call now？</Dialog>
           <Dialog>Yes... it's okay. here
 you are</Dialog>
@@ -130,7 +130,7 @@ you are</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>……yes.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Um... maybe it's inconvenient
 right now？</Dialog>
           <Dialog>Yes. please？</Dialog>
@@ -148,7 +148,7 @@ right now？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Why not go to the date
 ▲デート場所▲ on the ▲月▲▲日▲？</Dialog>
         </Dialogs>
@@ -164,7 +164,7 @@ right now？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Why not go to the date
 place together tomorrow？</Dialog>
         </Dialogs>
@@ -180,7 +180,7 @@ place together tomorrow？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>If it's available, why
 not go to the date place？</Dialog>
         </Dialogs>
@@ -509,7 +509,7 @@ it might be free...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>It doesn't fit somehow...
 sorry.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I'll ask you to see the
 timing again next time...</Dialog>
         </Dialogs>
@@ -539,7 +539,7 @@ timing again next time...</Dialog>
           <Dialog>I have to decide the
 time too. When should
 I meet you？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Umm...</Dialog>
         </Dialogs>
       </SDL2>
@@ -567,7 +567,7 @@ I meet you？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Yeah. So that's how the
 time is decided.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Shall we meet at the
 ▲デート場所▲ at ▲時刻▲？ We have
 to make sure we don't
@@ -598,7 +598,7 @@ forget)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, I have to consider
 the time I'm back...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I see... Let's make it
 faster.</Dialog>
         </Dialogs>
@@ -630,7 +630,7 @@ if I'll make it in time.
 I would be happy if it
 was a little later if
 possible.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, let's delay time.
 Umm...</Dialog>
         </Dialogs>
@@ -664,7 +664,7 @@ Umm...</Dialog>
           <Dialog>So let's put it in your
 plan. ...Hey, you want
 a great date, don't you？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, that's right.</Dialog>
         </Dialogs>
       </SDL2>
@@ -693,7 +693,7 @@ a great date, don't you？</Dialog>
           <Dialog>Hmm... I wonder what
 kind of date will be
 next？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Haha, look forward to
 it.</Dialog>
         </Dialogs>
@@ -723,7 +723,7 @@ it.</Dialog>
           <Dialog>Well, see you tomorrow.
 From now on, how many
 hours will it be？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Haha, I can't wait.</Dialog>
         </Dialogs>
       </SDL2>
@@ -752,7 +752,7 @@ hours will it be？</Dialog>
           <Dialog>Well then, tomorrow.
 Are you strictly prohibited
 from being late？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, leave it to me.</Dialog>
         </Dialogs>
       </SDL2>
@@ -781,7 +781,7 @@ from being late？</Dialog>
           <Dialog>See you later. Don't
 go wrong in the location
 and time？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's okay.</Dialog>
         </Dialogs>
       </SDL2>
@@ -809,7 +809,7 @@ and time？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Well, I'll start preparing
 now.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yeah. See you later.</Dialog>
         </Dialogs>
       </SDL2>
@@ -837,7 +837,7 @@ now.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>There are times like
 this...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I'll invite you again.
 sorry.</Dialog>
         </Dialogs>
@@ -865,7 +865,7 @@ sorry.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>...I'm sorry.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>This is the one... sorry.</Dialog>
         </Dialogs>
       </SDL2>
@@ -893,7 +893,7 @@ sorry.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>That's right. So there's
 nothing I can do...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>You can go again anytime.
 ●I'll contact you.</Dialog>
         </Dialogs>
@@ -919,7 +919,7 @@ nothing I can do...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>As expected...Is it okay
 to leave it without it
 now？</Dialog>
@@ -954,7 +954,7 @@ be helped as selfish.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Um, sorry. That means
 there's no talk about
 this...</Dialog>
@@ -983,7 +983,7 @@ this...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>sorry. After all, let's
 stop.</Dialog>
           <Dialog>Nene</Dialog>
@@ -1014,7 +1014,7 @@ I understand.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Don't forget the promise.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲ is the only place.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1041,7 +1041,7 @@ I understand.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>So, it's about time...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, don't be late. good
 night.</Dialog>
         </Dialogs>
@@ -1070,7 +1070,7 @@ night.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>It's a shame... but...
 could you invite me again？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>of course. See you later.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1098,7 +1098,7 @@ could you invite me again？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Well, good night. ...Sorry,
 aren't you？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, this one is it.
 good night.</Dialog>
         </Dialogs>
@@ -1151,7 +1151,7 @@ good night.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>hello.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>what？</Dialog>
           <Dialog>It's not cut after all.
 thank you.</Dialog>
@@ -1215,7 +1215,7 @@ later.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Huh？ hello？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, what if.</Dialog>
           <Dialog>Maybe... would you like
 to talk a little more？</Dialog>
@@ -1280,7 +1280,7 @@ go on a date. Well then.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>...Hey, it's not cut
 off yet, has it？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yeah…….</Dialog>
           <Dialog>n/a. So, a bonus game.
 It's time for now...</Dialog>

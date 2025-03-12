@@ -68,7 +68,7 @@ here？</Dialog>
           <Dialog>I tried making it a Japanese
 style, but what do you
 think？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Like, the taste of your
 mother. I'll enjoy having
 this!</Dialog>
@@ -98,7 +98,7 @@ this!</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Right. I tried making
 it a Japanese style!</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's good, it's Japanese
 food after all. I'll
 eat it!</Dialog>
@@ -129,7 +129,7 @@ eat it!</Dialog>
           <Dialog>Yes, lunch box. I've
 worked hard even after
 this.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>amazing. It's like a
 Western restaurant.</Dialog>
         </Dialogs>
@@ -160,7 +160,7 @@ Western restaurant.</Dialog>
 lunch box. Today I tried
 to add color... what
 do you think？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Wow, it's a shame to
 eat it. ...I'll eat it
 though!</Dialog>
@@ -190,7 +190,7 @@ though!</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>It's Chinese style today,
 was it okay？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>No problem at all! I'll
 enjoy having this!</Dialog>
         </Dialogs>
@@ -219,7 +219,7 @@ enjoy having this!</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Today it's Chinese. Have
 a good meal？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>looks delicious. I'll
 have it.</Dialog>
         </Dialogs>
@@ -248,7 +248,7 @@ have it.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Yes, lunch box. I tried
 to spice my love</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>let's see.</Dialog>
         </Dialogs>
       </SDL2>
@@ -278,7 +278,7 @@ to spice my love</Dialog>
 I experience it, I don't
 get a little nervous
 about having my lunch.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right, it looks
 delicious. I'll have
 you there!</Dialog>
@@ -540,7 +540,7 @@ fine, I'll eat it myself.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Thank you for the meal.
 I don't know how to say,
 "I'm so happy, I don't
@@ -571,7 +571,7 @@ so happy!</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Thank you for the meal.
 As expected, ▲姉ヶ崎＊▲'s
 food is the best.</Dialog>
@@ -602,7 +602,7 @@ best.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, it was tasty. Thank
 you for the meal.</Dialog>
           <Dialog>Nene</Dialog>
@@ -631,7 +631,7 @@ make it again.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Thank you for the meal.
 Umm, it was interesting.</Dialog>
           <Dialog>Nene</Dialog>
@@ -649,7 +649,7 @@ Umm, it was interesting.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(▲姉ヶ崎＊▲'s cooking skills...
 I wonder if there are
 still some rough spots.)</Dialog>
@@ -666,7 +666,7 @@ still some rough spots.)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(▲姉ヶ崎＊▲'s cooking skills...it
 looks like he's doing
 well.)</Dialog>
@@ -683,7 +683,7 @@ well.)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(▲姉ヶ崎＊▲'s cooking skills...I've
 gotten better)</Dialog>
         </Dialogs>
@@ -699,7 +699,7 @@ gotten better)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(▲姉ヶ崎＊▲'s cooking skills...
 at a level that I can
 boast about as a boyfriend)</Dialog>
@@ -716,7 +716,7 @@ boast about as a boyfriend)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(▲姉ヶ崎＊▲'s cooking skills...I
 can't believe he's an
 amateur anymore)</Dialog>
@@ -733,7 +733,7 @@ amateur anymore)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(▲姉ヶ崎＊▲'s cooking skills...
 I guess it's at a level
 that can be taught to
@@ -751,7 +751,7 @@ others)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(▲姉ヶ崎＊▲'s cooking skills...same
 as a top-class chef)</Dialog>
         </Dialogs>
@@ -767,7 +767,7 @@ as a top-class chef)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(▲姉ヶ崎＊▲'s cooking skills...
 it's like cooking from
 a three-star restaurant)</Dialog>
@@ -784,7 +784,7 @@ a three-star restaurant)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(▲姉ヶ崎＊▲'s cooking skills...it's
 the best in the world)</Dialog>
         </Dialogs>
@@ -800,7 +800,7 @@ the best in the world)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(▲姉ヶ崎＊▲'s cooking skills...the
 best in human history!)</Dialog>
         </Dialogs>
@@ -860,7 +860,7 @@ best in human history!)</Dialog>
           <Dialog>So, what do you want
 to eat next？ We accept
 orders</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right...</Dialog>
           <Dialog>It feels like Japanese
 food</Dialog>
@@ -885,7 +885,7 @@ but... *Unused</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>So, ▲料理ジャンル▲.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1000,7 +1000,7 @@ hard.</Dialog>
           <Dialog>This is my first time
 at this shop. I hope
 it's a hit.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right. Okay, let's
 go!</Dialog>
         </Dialogs>
@@ -1029,7 +1029,7 @@ go!</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>It was tasty here, wasn't
 it？ I really like it.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right？ So that
 was a great answer.</Dialog>
         </Dialogs>
@@ -1058,7 +1058,7 @@ was a great answer.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>What... are you going
 to do it here？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well, let's get in for
 now.</Dialog>
         </Dialogs>
@@ -1087,7 +1087,7 @@ now.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>We are also completely
 regulars.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's like "the store
 manager's usual guy,"
 haha.</Dialog>
@@ -1117,7 +1117,7 @@ haha.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I love this shop... Yes,
 it's fine though.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲ is a bit strange？
 Well, let's leave it
 here for today.</Dialog>
@@ -1134,7 +1134,7 @@ here for today.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>copper？ Have you decided
 what to do？</Dialog>
         </Dialogs>
@@ -1240,7 +1240,7 @@ do too many...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>●I wonder what to do...</Dialog>
           <Dialog>Menu 1</Dialog>
           <Dialog>Menu 2</Dialog>
@@ -1273,7 +1273,7 @@ But what about ▲姉ヶ崎＊▲？</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>I？ Yes, then... this？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲生成選択肢１▲...maybe it's
 good.</Dialog>
         </Dialogs>
@@ -1306,7 +1306,7 @@ good.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>I'm this.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲生成選択肢２▲.
 So let's call the store
 clerk.</Dialog>
@@ -1360,7 +1360,7 @@ Looks tasty.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well, it's a hairstyle...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>yeah？ My hair？</Dialog>
@@ -1394,7 +1394,7 @@ I used to meet</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Sorry, nothing.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>picture？ That's a foul.
@@ -1413,7 +1413,7 @@ do about it.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I'd like to see the hairstyle
 when I first met them.</Dialog>
         </Dialogs>
@@ -1443,7 +1443,7 @@ when I first met them.</Dialog>
           <Dialog>Is that so？ Yes, it's
 fine. If you say you
 want to see it.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(I'm glad I said that)</Dialog>
         </Dialogs>
       </SDL2>
@@ -1473,7 +1473,7 @@ want to see it.</Dialog>
 as far as the length
 is right now. Will you
 wait a while？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Understood. I'll look
 forward to it.</Dialog>
         </Dialogs>
@@ -1502,7 +1502,7 @@ forward to it.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I'll think about it but...
 hmm.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(I don't think he's interested,
 sorry)</Dialog>
         </Dialogs>
@@ -1518,7 +1518,7 @@ sorry)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I wanted to see a different
 hairstyle.</Dialog>
         </Dialogs>
@@ -1548,7 +1548,7 @@ hairstyle.</Dialog>
           <Dialog>That's fine. Hey, let's
 both decide while looking
 at the magazine.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, that's good.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1576,7 +1576,7 @@ at the magazine.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Is that so？ Hmm, I really
 like it now...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I see... I understand.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1591,7 +1591,7 @@ like it now...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That hairstyle is great.
 I think it's better to
 stay that way for a while.</Dialog>
@@ -1642,7 +1642,7 @@ I liked it too.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>That's right……. I wanted
 to change it soon though.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I see... sorry.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1692,7 +1692,7 @@ to change it soon though.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲, it's about hairstyles...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Are you curious about
@@ -1731,7 +1731,7 @@ it？</Dialog>
           <Dialog>If that were the case,
 it wouldn't be the same
 as it is now.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I see. Sorry, then just
 leave it as is.</Dialog>
         </Dialogs>
@@ -1761,7 +1761,7 @@ leave it as is.</Dialog>
           <Dialog>Do you like that better？
 Hmm, then I might try
 changing it.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I did it. I think it
 definitely suits you.</Dialog>
         </Dialogs>
@@ -1790,7 +1790,7 @@ definitely suits you.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Isn't it easy for a girl
 to change her hairstyle？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right... sorry
 for saying something
 weird.</Dialog>
@@ -1862,7 +1862,7 @@ weird.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That accessory for today.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>yeah？</Dialog>
@@ -1892,7 +1892,7 @@ well</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>The one that's on that
 hair is really good.</Dialog>
         </Dialogs>
@@ -1908,7 +1908,7 @@ hair is really good.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Those earrings look great.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1923,7 +1923,7 @@ hair is really good.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I think it's perfect
 for the necklace ▲姉ヶ崎＊▲.</Dialog>
         </Dialogs>
@@ -1939,7 +1939,7 @@ for the necklace ▲姉ヶ崎＊▲.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I thought the one wearing
 it on that arm would
 suit me.</Dialog>
@@ -1956,7 +1956,7 @@ suit me.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That ring is perfect
 for ▲姉ヶ崎＊▲.</Dialog>
         </Dialogs>
@@ -1972,7 +1972,7 @@ for ▲姉ヶ崎＊▲.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Those glasses suit you
 well. It feels good.</Dialog>
         </Dialogs>
@@ -2001,7 +2001,7 @@ well. It feels good.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Is it true？ Thank you
 for lying. n/a.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Really! It really suits
 you well.</Dialog>
         </Dialogs>
@@ -2017,7 +2017,7 @@ you well.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That hair accessory...I
 guess so much.</Dialog>
         </Dialogs>
@@ -2033,7 +2033,7 @@ guess so much.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Those earrings don't
 suit you very well？</Dialog>
         </Dialogs>
@@ -2049,7 +2049,7 @@ suit you very well？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That necklace...maybe
 it's not that great.</Dialog>
         </Dialogs>
@@ -2065,7 +2065,7 @@ it's not that great.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>The one I wear on my
 arm... sorry, it doesn't
 suit me very well.</Dialog>
@@ -2082,7 +2082,7 @@ suit me very well.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That ring might not be
 great.</Dialog>
         </Dialogs>
@@ -2098,7 +2098,7 @@ great.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>The glasses I'm wearing
 right now... ▲姉ヶ崎＊▲ doesn't
 look like that？</Dialog>
@@ -2128,7 +2128,7 @@ look like that？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>That's right……. Stop
 wearing it for a while.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Umm... sorry.</Dialog>
         </Dialogs>
       </SDL2>
@@ -2178,7 +2178,7 @@ wearing it for a while.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Come to think of it,
 how do ▲姉ヶ崎＊▲ always
 decide what to wear？</Dialog>
@@ -2234,7 +2234,7 @@ on color？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Shape is important after
 all.</Dialog>
           <Dialog>Nene</Dialog>
@@ -2259,7 +2259,7 @@ all</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Maybe it's a skirt after
 all.</Dialog>
         </Dialogs>
@@ -2275,7 +2275,7 @@ all.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>●I think I like dresses.</Dialog>
         </Dialogs>
       </SDL2>
@@ -2290,7 +2290,7 @@ all.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Right... what about pants？</Dialog>
         </Dialogs>
       </SDL2>
@@ -2305,7 +2305,7 @@ all.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>...Who's the one with
 a lot of exposure？</Dialog>
         </Dialogs>
@@ -2335,7 +2335,7 @@ a lot of exposure？</Dialog>
           <Dialog>I see, is that so？ So...
 Stay tuned for your next
 date.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>real？ I'm looking forward
 to it!</Dialog>
         </Dialogs>
@@ -2365,7 +2365,7 @@ to it!</Dialog>
           <Dialog>That's right. But what
 you do depends on your
 mood on the day.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>If so, is there no choice？</Dialog>
         </Dialogs>
       </SDL2>
@@ -2410,7 +2410,7 @@ mood on the day.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Let's choose the colour.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>It certainly changes
@@ -2436,7 +2436,7 @@ colour would be better</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right... I guess
 it's bright and warm.</Dialog>
         </Dialogs>
@@ -2452,7 +2452,7 @@ it's bright and warm.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>●I think bright, cool
 colors would be better.</Dialog>
         </Dialogs>
@@ -2468,7 +2468,7 @@ colors would be better.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm, it feels dark and
 warm.</Dialog>
         </Dialogs>
@@ -2484,7 +2484,7 @@ warm.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm... I think a dark,
 cool color would be better.</Dialog>
         </Dialogs>
@@ -2515,7 +2515,7 @@ cool color would be better.</Dialog>
 I think I'll try to go
 on my next date to suit
 your taste.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I'm looking forward to
 it!</Dialog>
         </Dialogs>
@@ -2545,7 +2545,7 @@ it!</Dialog>
           <Dialog>That's right...it's a
 little different from
 my taste.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I see...</Dialog>
         </Dialogs>
       </SDL2>
@@ -2585,7 +2585,7 @@ my taste.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>How about choosing by
 genre？</Dialog>
           <Dialog>Nene</Dialog>
@@ -2607,7 +2607,7 @@ for example？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>●Is it cute？</Dialog>
         </Dialogs>
       </SDL2>
@@ -2622,7 +2622,7 @@ for example？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I like the casual one.</Dialog>
         </Dialogs>
       </SDL2>
@@ -2637,7 +2637,7 @@ for example？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>After all, the pure feeling
 is the best for ▲姉ヶ崎＊▲.</Dialog>
         </Dialogs>
@@ -2667,7 +2667,7 @@ is the best for ▲姉ヶ崎＊▲.</Dialog>
           <Dialog>So, I guess it's fine
 to look like you're wearing
 it now.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I see... yes. I think
 it suits you very well.</Dialog>
         </Dialogs>
@@ -2697,7 +2697,7 @@ it suits you very well.</Dialog>
           <Dialog>Haha, I understand. I
 think I'll try that on
 my next date.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It definitely suits you!</Dialog>
         </Dialogs>
       </SDL2>
@@ -2726,7 +2726,7 @@ my next date.</Dialog>
           <Dialog>Sorry. I don't think
 that kind of thing is
 good lately.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I see. I'm sorry about
 this one.</Dialog>
         </Dialogs>
@@ -2742,7 +2742,7 @@ this one.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well, why not change
 the way you call it ●？</Dialog>
         </Dialogs>
@@ -2794,7 +2794,7 @@ you？</Dialog>
           <Dialog>Do you not call me what
 you are now？ I like it
 though...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I see. If so, I wouldn't
 overdo it.</Dialog>
         </Dialogs>
@@ -2835,7 +2835,7 @@ overdo it.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Umm...</Dialog>
           <Dialog>▲生成選択肢１▲</Dialog>
           <Dialog>▲生成選択肢２▲</Dialog>
@@ -2865,7 +2865,7 @@ overdo it.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲新主人公▲ What do you think？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>...In that case, wouldn't
@@ -2904,7 +2904,7 @@ there any other candidates？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I would like you to call
 me the ▲新主人公▲.</Dialog>
           <Dialog>Nene</Dialog>
@@ -2944,7 +2944,7 @@ like it.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I hope they call him
 the new protagonist.</Dialog>
           <Dialog>Nene</Dialog>
@@ -2985,7 +2985,7 @@ should have said it sooner.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲新主人公▲, what about it？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>▲新主人公▲.</Dialog>
@@ -3018,7 +3018,7 @@ of cute. I liked it too.</Dialog>
           <Dialog>Hmm... Isn't it okay
 to just leave it as it
 is now？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right. It's a
 shame but...</Dialog>
         </Dialogs>
@@ -3034,7 +3034,7 @@ shame but...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I'm thinking of changing
 the way ▲姉ヶ崎＊▲ is called...</Dialog>
         </Dialogs>
@@ -3085,7 +3085,7 @@ what they'll call you？</Dialog>
           <Dialog>Is that so？ It's fine
 to just leave it like
 this though.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I see... Then I'll stop.</Dialog>
         </Dialogs>
       </SDL2>
@@ -3125,7 +3125,7 @@ this though.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What I'm thinking right
 now...</Dialog>
           <Dialog>▲生成選択肢１▲</Dialog>
@@ -3156,7 +3156,7 @@ now...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Can I call it ▲生成選択肢５▲？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>That's a bit... Can you
@@ -3184,7 +3184,7 @@ make something else？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Can I call it ▲生成選択肢５▲？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Of course it's fine.
@@ -3213,7 +3213,7 @@ it too.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I would like to call
 it ▲生成選択肢５▲.</Dialog>
           <Dialog>Nene</Dialog>
@@ -3243,7 +3243,7 @@ is given.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲生成選択肢５▲... etc.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Ah... Isn't that good？
@@ -3273,7 +3273,7 @@ I liked it too.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>It's over now. Stop it？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right... I understand.</Dialog>
         </Dialogs>
       </SDL2>
@@ -3338,7 +3338,7 @@ it</Dialog>
           <Dialog>I wonder if they like
 your current hairstyle？
 If so, I'll stop.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yeah. I think it's better
 to just stay as it is
 now.</Dialog>
@@ -3389,7 +3389,7 @@ now.</Dialog>
           <Dialog>What hairstyle do you
 like... Which one do
 you like？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>●If it's my preference...I
 guess that's about it.</Dialog>
           <Dialog>Cute page</Dialog>
@@ -3424,7 +3424,7 @@ guess that's about it.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Would you like to choose
 from this？</Dialog>
           <Dialog>Nene</Dialog>
@@ -3459,7 +3459,7 @@ opinion.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Let's start from here.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I see, I think I like
@@ -3495,7 +3495,7 @@ be better？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Let's choose from this
 point？</Dialog>
           <Dialog>Nene</Dialog>
@@ -3734,7 +3734,7 @@ right away.</Dialog>
           <Dialog>I love it too... yes,
 that's what I'm going
 to decide!</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲I'm sure it would
 suit you.</Dialog>
         </Dialogs>
@@ -3762,7 +3762,7 @@ suit you.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Hmm... is that？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(I don't seem to be very
 convinced...)</Dialog>
         </Dialogs>
@@ -3806,7 +3806,7 @@ convinced...)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, then what about
 the colour？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>The color of your hair
 will change your impression.</Dialog>
           <Dialog>Can you decide together？</Dialog>
@@ -3853,7 +3853,7 @@ will change your impression.</Dialog>
           <Dialog>All that's left... I
 have to decide on the
 colour.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Do you also change the
 hair color？</Dialog>
           <Dialog>It's not necessarily
@@ -3904,7 +3904,7 @@ about it together.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Can you decide on the
 hair color too？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's fine. I wonder
 what colour would be
 good...</Dialog>
@@ -3999,7 +3999,7 @@ would be better.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>It feels natural and
 I think it's good.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I think it's natural
 after all.</Dialog>
         </Dialogs>
@@ -4028,7 +4028,7 @@ after all.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Is that color... if you
 say you're good...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲You can go there.</Dialog>
         </Dialogs>
       </SDL2>
@@ -4055,7 +4055,7 @@ say you're good...</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Hmm...really？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Did you like it？)</Dialog>
         </Dialogs>
       </SDL2>
@@ -4084,7 +4084,7 @@ say you're good...</Dialog>
           <Dialog>So, I'll be showing off
 my new me soon. stay
 tuned.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I'm looking forward to
 it.</Dialog>
         </Dialogs>
@@ -4250,7 +4250,7 @@ of ●</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Thank you for the meal.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Thank you for the meal.
 how was it？</Dialog>
         </Dialogs>
@@ -4373,7 +4373,7 @@ not good at.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(He's happy... He chose
 a good store)</Dialog>
         </Dialogs>
@@ -4389,7 +4389,7 @@ a good store)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(That's a mistake in
 your choice. It's a failure...)</Dialog>
         </Dialogs>
@@ -4405,7 +4405,7 @@ your choice. It's a failure...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Is it something ▲姉ヶ崎＊▲
 that's not good at...
 I didn't realize)</Dialog>

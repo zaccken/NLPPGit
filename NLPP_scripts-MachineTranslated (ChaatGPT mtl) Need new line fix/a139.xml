@@ -44,7 +44,7 @@
           <Dialog>Nene</Dialog>
           <Dialog>Oh, what if. It's me,
 can you talk now？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, ▲姉ヶ崎＊▲？ it's okay.</Dialog>
           <Dialog>Well, today... I'm going
 to cook dinner, so why
@@ -80,7 +80,7 @@ at my house？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I'll definitely go and
 eat!</Dialog>
           <Dialog>Nene</Dialog>
@@ -117,7 +117,7 @@ later？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Of course, I'm going
 to eat!</Dialog>
           <Dialog>Nene</Dialog>
@@ -154,7 +154,7 @@ to it.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I have something to do
 today...</Dialog>
           <Dialog>Nene</Dialog>
@@ -185,7 +185,7 @@ the next opportunity.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Good evening.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Ah, come ♪</Dialog>
@@ -217,7 +217,7 @@ the next opportunity.</Dialog>
 isn't this the first
 time I've had someone
 eat at my house？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is that so？ Something...don't
 make me excited.</Dialog>
         </Dialogs>
@@ -245,7 +245,7 @@ make me excited.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Take your time today.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, thank you.</Dialog>
         </Dialogs>
       </SDL2>
@@ -362,7 +362,7 @@ you might like.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>So maybe I'll request
 the ▲メニュー▲.</Dialog>
         </Dialogs>
@@ -1308,7 +1308,7 @@ lined up...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, thank you for the
 meal.</Dialog>
         </Dialogs>
@@ -1324,7 +1324,7 @@ meal.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(I felt a bit more powerful
 when I ate homemade food.
 I think something good
@@ -1356,7 +1356,7 @@ would happen!)</Dialog>
           <Dialog>Hey, how was my meal？
 I think it was a good
 result.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(I'm sure I'm very confident...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -1385,7 +1385,7 @@ result.</Dialog>
           <Dialog>So, how about the food
 I made？ You can answer
 honestly ▼</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(It's a really impressive
 taste...)</Dialog>
         </Dialogs>
@@ -1416,7 +1416,7 @@ taste...)</Dialog>
 of my home cooking？ I
 only hear compliments...
 I see♪</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(I can only think of
 compliments though...)</Dialog>
         </Dialogs>
@@ -1444,7 +1444,7 @@ compliments though...)</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, was it tasty？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(...it wasn't bad)</Dialog>
         </Dialogs>
       </SDL2>
@@ -1472,7 +1472,7 @@ compliments though...)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Well... so maybe I'll
 ask you about the food？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(That's pretty...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -1500,7 +1500,7 @@ ask you about the food？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, my home cooking...
 did it suit your taste？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Well, that's right)</Dialog>
         </Dialogs>
       </SDL2>
@@ -1529,7 +1529,7 @@ did it suit your taste？</Dialog>
           <Dialog>how was it？ ...I'm not
 as confident as I listen
 to it.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Well... it wasn't a
 success though)</Dialog>
         </Dialogs>
@@ -1558,7 +1558,7 @@ success though)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Sorry... today's cooking
 wasn't good, right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(I can't say it's fine
 though...)</Dialog>
         </Dialogs>
@@ -1587,7 +1587,7 @@ though...)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Sorry... I wanted to
 make something properly.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(You should say what
 you think...？)</Dialog>
         </Dialogs>
@@ -1639,7 +1639,7 @@ you think...？)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Of course it was delicious!</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>on second thoughts？ I
@@ -1668,7 +1668,7 @@ that ▼</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It was really tasty.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>That's good ♪ I was relieved.</Dialog>
@@ -1695,7 +1695,7 @@ that ▼</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What a thing...it was
 delicious.</Dialog>
           <Dialog>Nene</Dialog>
@@ -1725,7 +1725,7 @@ honest...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It was pretty tasty.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>yes？ I was hoping they
@@ -1755,7 +1755,7 @@ delicious, that's fine.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well, I think it was
 delicious.</Dialog>
           <Dialog>Nene</Dialog>
@@ -1783,7 +1783,7 @@ delicious.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Isn't it good？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Really？ I see...it was
@@ -1811,7 +1811,7 @@ okay.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is it a bit different
 to my preference？</Dialog>
           <Dialog>Nene</Dialog>
@@ -1841,7 +1841,7 @@ I'll try again.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It was a bit different
 to my taste.</Dialog>
           <Dialog>Nene</Dialog>
@@ -1871,7 +1871,7 @@ more.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Certainly... it's not
 what I like.</Dialog>
           <Dialog>Nene</Dialog>
@@ -1916,7 +1916,7 @@ closer to my liking.</Dialog>
 Maybe it's better not
 to have a lunch box once
 in a while？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right...</Dialog>
           <Dialog>Lunch boxes are the best!</Dialog>
           <Dialog>The dining room is good
@@ -1944,7 +1944,7 @@ too</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What are you talking
 about？ Lunch boxes are
 the best.</Dialog>
@@ -1974,7 +1974,7 @@ it without hesitation♪</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right. The school
 cafeteria might also
 be a good way to change
@@ -2025,7 +2025,7 @@ lunch box.</Dialog>
           <Dialog>I have a question but...
 do you eat breakfast
 properly？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm, I've eaten or not
 eaten well...</Dialog>
           <Dialog>If it's fine, can I go
@@ -2058,7 +2058,7 @@ and make it？</Dialog>
           <Dialog>Hey？ I'd like to go and
 make breakfast again...
 what do you think？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Umm...</Dialog>
         </Dialogs>
       </SDL2>
@@ -2103,7 +2103,7 @@ what do you think？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲, come and make
 it.</Dialog>
           <Dialog>Nene</Dialog>
@@ -2133,7 +2133,7 @@ time, so I promise.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>For breakfast... I'll
 do my best myself as
 much as possible.</Dialog>
@@ -2184,7 +2184,7 @@ for you to work hard.</Dialog>
 making sweets lately.
 I want to feed you too,
 right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>real？ I'll be happy to
 eat it!</Dialog>
           <Dialog>So I'll be making some
@@ -2231,7 +2231,7 @@ will come out？)</Dialog>
 I'd like to go to your
 house to cook dinner...but
 don't you mind？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Dinner？</Dialog>
           <Dialog>It's not okay at all</Dialog>
           <Dialog>sorry……</Dialog>
@@ -2258,7 +2258,7 @@ don't you mind？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's not okay at all.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>That's good ♪ I'll make
@@ -2288,7 +2288,7 @@ to it ▼</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Sorry... I wanted to
 try my best myself as
 much as possible.</Dialog>

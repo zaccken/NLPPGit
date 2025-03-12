@@ -48,7 +48,7 @@
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>Hey. Have you spoken
 with someone just now？</Dialog>
@@ -125,7 +125,7 @@ go？</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>It's been a while...but
 it's not that, but I
@@ -537,7 +537,7 @@ it.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲. How is there
 any problem？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲. It's okay, I'm
 doing it properly.</Dialog>
           <Dialog>That's fine. Please do
@@ -584,7 +584,7 @@ as you like.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hehe, you're working
 hard.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well, even though it's
 part-time work, it's
 work.</Dialog>
@@ -636,7 +636,7 @@ rooting for you.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲. Isn't it too
 much？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Oh, yeah, it's okay.
 Did you look like you
 were trying too hard？</Dialog>
@@ -686,7 +686,7 @@ for your concern.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>good job.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, ▲姉ヶ崎＊▲.</Dialog>
           <Dialog>Let's do our best until
 the end of today.</Dialog>
@@ -732,7 +732,7 @@ the end of today.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Thank you for your hard
 work.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, ▲姉ヶ崎＊▲.</Dialog>
           <Dialog>Do you want to help？</Dialog>
           <Dialog>Yes, it's okay. thank
@@ -782,7 +782,7 @@ you.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲. How are you doing
 lately？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>recently？ Hmm, I think
 I'm doing it without
 any problems.</Dialog>
@@ -834,7 +834,7 @@ for it.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲. Have you had
 any trouble lately？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>There's nothing particularly
 bothering me, it's okay.</Dialog>
           <Dialog>Then you can rest assured.
@@ -939,7 +939,7 @@ lately？</Dialog>
           <Dialog>Actually, recently...</Dialog>
           <Dialog>Hehe, I see. Are you
 in love？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Lovey-dovey... I wonder,
 hahaha.</Dialog>
           <Dialog>After all, I somehow
@@ -1010,7 +1010,7 @@ Be good friends.</Dialog>
           <Dialog>Ah, hey. If you like,
 could you please give
 me this？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm... this is a ▲special
 date item**▲.</Dialog>
           <Dialog>Yes, I happened to get
@@ -1111,7 +1111,7 @@ with your girlfriend？</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>what？</Dialog>
           <Dialog>Well, I was a little
 curious...</Dialog>
@@ -1222,7 +1222,7 @@ don't worry.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲...</Dialog>
           <Dialog>It's been a while since
 I've spoken properly.</Dialog>
@@ -1274,7 +1274,7 @@ worry about it.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey hey. Have you changed
 recently？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What's changed... where？</Dialog>
           <Dialog>Hmm, somehow, but inside.</Dialog>
         </Dialogs>
@@ -1303,7 +1303,7 @@ recently？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I think it has a warm
 atmosphere.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(It feels warm...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -1330,7 +1330,7 @@ atmosphere.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Yes, it feels a bit cool...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Cool...)</Dialog>
         </Dialogs>
       </SDL2>
@@ -1358,7 +1358,7 @@ atmosphere.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I guess the atmosphere
 has calmed down...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Are you calm？)</Dialog>
         </Dialogs>
       </SDL2>
@@ -1386,7 +1386,7 @@ has calmed down...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I guess it's active...
 yes, that's how it is.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(active……)</Dialog>
         </Dialogs>
       </SDL2>
@@ -1439,7 +1439,7 @@ yes, that's how it is.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Your girlfriend has changed
 her hairstyle.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well, you know well.</Dialog>
           <Dialog>I somehow noticed it.
 After all, isn't it for
@@ -1502,7 +1502,7 @@ you？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>My girlfriend seems to
 be getting cute lately.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Huh, is that so？</Dialog>
           <Dialog>I didn't realize it myself.</Dialog>
           <Dialog>That's... that...</Dialog>
@@ -1567,7 +1567,7 @@ case...)</Dialog>
           <Dialog>Hey, girlfriend, you
 haven't been feeling
 well lately？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What... why is that？</Dialog>
           <Dialog>A story I heard from
 someone. I'm not sure
@@ -1635,7 +1635,7 @@ noticed a little.</Dialog>
           <Dialog>Ah, hey hey.
 Also with my girlfriend
 You were back, right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah... ha ha,
 I was being seen.</Dialog>
           <Dialog>It seems to be going
@@ -1699,7 +1699,7 @@ well.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Ah, he's the guy who's
 flirting.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What, what is that？</Dialog>
           <Dialog>Isn't that what you know
 best？</Dialog>
@@ -1764,7 +1764,7 @@ skinship with my girlfriend...)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>The other day I saw your
 date.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What... I wonder when
 it will be.</Dialog>
           <Dialog>When... I wonder what
@@ -1832,7 +1832,7 @@ see it...)</Dialog>
           <Dialog>Have you not been going
 out with your girlfriend
 much lately？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Umm... how about it...</Dialog>
           <Dialog>Girls are lonely, so
 I think it's better to
@@ -1892,7 +1892,7 @@ girlfriend？)</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>a…….</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>what？</Dialog>
           <Dialog>I don't think that kind
 of thing is what I'm
@@ -1961,7 +1961,7 @@ thinking at school...</Dialog>
           <Dialog>▲主人公＊▲. Looks like you're
 doing well recently,
 right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is that so？</Dialog>
           <Dialog>It's getting a reputation
 for something. It's a
@@ -2028,7 +2028,7 @@ in a lot of things lately...)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, you guys are dating
 properly.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Eh... yes, that's true.
 why？</Dialog>
           <Dialog>I haven't seen them much
@@ -2097,7 +2097,7 @@ it solid？</Dialog>
           <Dialog>How about girlfriends
 lately？ Does it feel
 like it is？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right... well,
 maybe.</Dialog>
           <Dialog>So I guess it's not like
@@ -2163,7 +2163,7 @@ your girlfriend？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Are you doing well with
 your girlfriend？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well, that's right. I
 think it's going well
 though.</Dialog>
@@ -2229,7 +2229,7 @@ thing.</Dialog>
           <Dialog>Hey, you guys these days,
 it looks like they're
 popular.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Recently ●？ What does
 that mean？</Dialog>
           <Dialog>In a good way. It's the
@@ -2288,7 +2288,7 @@ couple.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, something happened？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>……why？</Dialog>
           <Dialog>That's how it looks.</Dialog>
           <Dialog>Hmm, I've been fighting
@@ -2334,7 +2334,7 @@ already？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Come to think of it,
 I probably didn't send
 much email...</Dialog>
@@ -2390,7 +2390,7 @@ right away.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right... I guess
 I haven't done much like
 a lover lately.</Dialog>
@@ -2438,7 +2438,7 @@ Meet properly.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Umm... the other day,
 I left off on a date...</Dialog>
           <Dialog>Nene</Dialog>
@@ -2493,7 +2493,7 @@ that.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Actually, the other day,
 when I left my girlfriend
 alone on a date, I got
@@ -2549,7 +2549,7 @@ I get forgiven.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm, I haven't seen my
 girlfriend much lately...</Dialog>
           <Dialog>Nene</Dialog>
@@ -2603,7 +2603,7 @@ call or email.</Dialog>
           <Dialog>Hey, I just saw my girlfriend,
 but it seemed like I
 was feeling unwell.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Oh, that's right...</Dialog>
           <Dialog>I don't think it's better
 not to force you too
@@ -2653,7 +2653,7 @@ tell me.</Dialog>
           <Dialog>My girlfriend says she's
 taking a break from a
 cold？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, yes. You know well.</Dialog>
           <Dialog>I think it would be nice
 if you visited me.</Dialog>
@@ -2744,7 +2744,7 @@ thank you.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>yeah？</Dialog>
           <Dialog>It was a long time ago,
 but... I've been out
@@ -2843,7 +2843,7 @@ happens.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>what？</Dialog>
           <Dialog>Umm, I wonder if you
 remember... Before you
@@ -2952,7 +2952,7 @@ be friends forever.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>Go home now？ I wish I
 could go home with you？</Dialog>
@@ -3021,7 +3021,7 @@ alone today.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>Sorry, did you keep me
 waiting？</Dialog>
@@ -3053,7 +3053,7 @@ a friend a little bit.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Well, here. bye bye.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>bye bye.</Dialog>
         </Dialogs>
       </SDL2>
@@ -3080,7 +3080,7 @@ a friend a little bit.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>bye bye. see you later.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, again.</Dialog>
         </Dialogs>
       </SDL2>
@@ -3137,7 +3137,7 @@ a friend a little bit.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Well then.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, then.</Dialog>
           <Dialog>that…….</Dialog>
           <Dialog>What's up？</Dialog>
@@ -3208,7 +3208,7 @@ a friend a little bit.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>...So then.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well then.</Dialog>
           <Dialog>Hey... why are you going
 home with me？</Dialog>
@@ -3268,7 +3268,7 @@ friends.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Oh, it's Valentine's
 Day.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Why is it a good breath？</Dialog>
           <Dialog>You don't know. If there's
 no one to give it to,
@@ -3327,7 +3327,7 @@ is fine now.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>White Day？ Are you okay？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is it okay... what？</Dialog>
           <Dialog>Various things. Well,
 if you don't have to
@@ -3407,7 +3407,7 @@ though.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>My birthday today!</Dialog>
           <Dialog>Oh, congratulations!</Dialog>
@@ -3473,7 +3473,7 @@ complicated...)</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲. happy birthday.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Oh, thank you. Will you
 give me something？</Dialog>
           <Dialog>there is no. Please ask
@@ -3533,7 +3533,7 @@ enough.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Merry Christmas ♪</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Merry Christmas!</Dialog>
           <Dialog>Christmas... I'm sure
 you'll be having fun.</Dialog>
@@ -3631,7 +3631,7 @@ you'll be having fun.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲. What's up？</Dialog>
@@ -3733,7 +3733,7 @@ so cute.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>If that's true, this
 is Anegasaki.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>hello. ▲苗字▲But I have
 a bit of a request.</Dialog>
           <Dialog>Request？ what happened？</Dialog>
@@ -3955,7 +3955,7 @@ nice to meet you.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(▲姉ヶ崎＊▲, I wonder if
 it's still there...)</Dialog>
           <Dialog>Nene</Dialog>
@@ -4110,7 +4110,7 @@ been fine. Well then</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲!？</Dialog>
           <Dialog>I'm surprised. what happened？</Dialog>
           <Dialog>That's because I was
@@ -4188,7 +4188,7 @@ it...？)</Dialog>
           <Dialog>Hey. If it's tough, can
 you always be pampered
 by your sister？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What, ● is...▲姉ヶ崎＊▲？</Dialog>
           <Dialog>Yes, please.</Dialog>
           <Dialog>Well, I guess it's okay
@@ -4255,7 +4255,7 @@ a moment...)</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Cora.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What...●, did you do
 something？</Dialog>
           <Dialog>Yes, I haven't done it.
@@ -4324,7 +4324,7 @@ idiot!</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>What about girlfriend？
 Are you going well？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well, I guess so.</Dialog>
           <Dialog>If anything happens,
 I have to side with my
@@ -4393,7 +4393,7 @@ though...)</Dialog>
           <Dialog>When I look at you, I
 sometimes feel sorry
 for my girlfriend...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Huh, why？</Dialog>
           <Dialog>I'm sure you're having
 such an innocent smile
@@ -4460,7 +4460,7 @@ the case though...</Dialog>
           <Dialog>Is it your girlfriend's
 fault for you to look
 so heartily happy？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well... Maybe it's because
 of my girlfriend that
 I'm happy!</Dialog>
@@ -4525,7 +4525,7 @@ things.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>I'm jealous of my girlfriend...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What a sudden thing？</Dialog>
           <Dialog>There's a boyfriend who's
 so cute that he'll listen
@@ -4591,7 +4591,7 @@ everything...？)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Girlfriends are such
 a wonderful girl.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well!</Dialog>
           <Dialog>I'll answer it right
 away. But I don't think
@@ -4658,7 +4658,7 @@ be shocked to hear it.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I wonder if I'm not attractive
 as a woman.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yeah. why？</Dialog>
           <Dialog>After all, even a laid-back
 girl like you, she has
@@ -4725,7 +4725,7 @@ it？)</Dialog>
           <Dialog>Are you working hard
 on your relationship
 with your girlfriend？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm, I don't know if
 he's working hard, but
 it's pretty good.</Dialog>
@@ -4792,7 +4792,7 @@ person.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, if anything happens,
 you can rely on me, right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What's wrong, all of
 a sudden？</Dialog>
           <Dialog>I just thought about
@@ -4859,7 +4859,7 @@ have to protect it.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, aren't you pushing
 yourself too hard？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>●？ It's okay but...</Dialog>
           <Dialog>She's a good girl, but
 I think that if she's
@@ -4926,7 +4926,7 @@ hard)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, how are you with
 your girlfriend lately？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>How about... what？</Dialog>
           <Dialog>That's all sorts of things
 already...</Dialog>

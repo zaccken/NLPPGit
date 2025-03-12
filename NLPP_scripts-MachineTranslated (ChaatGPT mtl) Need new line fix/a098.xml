@@ -131,7 +131,7 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is it okay... maybe？</Dialog>
         </Dialogs>
       </SDL2>
@@ -146,7 +146,7 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hey...</Dialog>
         </Dialogs>
       </SDL2>
@@ -161,7 +161,7 @@
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hey, okay？</Dialog>
         </Dialogs>
       </SDL2>

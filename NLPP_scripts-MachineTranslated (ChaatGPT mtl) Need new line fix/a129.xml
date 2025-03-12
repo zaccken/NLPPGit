@@ -35,7 +35,7 @@
           <Dialog>Why not even have a study
 session in preparation
 for the next test？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah... the previous test
 was awful...</Dialog>
           <Dialog>Maybe I'll ask</Dialog>
@@ -77,7 +77,7 @@ was awful...</Dialog>
           <Dialog>What you need right now
 is...not a date, isn't
 it a study group？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes...maybe...</Dialog>
           <Dialog>Should I do it, study
 group</Dialog>
@@ -120,7 +120,7 @@ group</Dialog>
 time be that good？ So
 we have to have a study
 group.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>A study group...</Dialog>
           <Dialog>Let's do that</Dialog>
           <Dialog>Sorry, it's fine</Dialog>
@@ -275,7 +275,7 @@ next time.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>please. Don't hesitate.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, I'll go in.</Dialog>
         </Dialogs>
       </SDL2>
@@ -302,7 +302,7 @@ next time.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Hehe, are you nervous？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's not the case.</Dialog>
         </Dialogs>
       </SDL2>
@@ -330,7 +330,7 @@ next time.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Don't open the drawers,
 are you？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I can't open it... I'm
 just keeping quiet.</Dialog>
         </Dialogs>
@@ -359,7 +359,7 @@ just keeping quiet.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I thought I'd cleaned
 it up but...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's a big difference
 from ●'s room.</Dialog>
         </Dialogs>
@@ -388,7 +388,7 @@ from ●'s room.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>See, I don't look away
 very much. concentration.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes.</Dialog>
         </Dialogs>
       </SDL2>
@@ -416,7 +416,7 @@ very much. concentration.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Today is a study group,
 right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>You know.</Dialog>
         </Dialogs>
       </SDL2>
@@ -800,7 +800,7 @@ don't you？</Dialog>
           <Dialog>You did your best. Shall
 we take a break as a
 reward？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>nice. I was just thirsty.</Dialog>
           <Dialog>Then I'll prepare. Wait
 a minute.</Dialog>
@@ -843,7 +843,7 @@ If this is going to happen,
 I think I'll be able
 to manage, so I'll take
 a break now？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is it okay？ I think I'll
 do that.</Dialog>
           <Dialog>Well, wait a minute.</Dialog>
@@ -883,7 +883,7 @@ do that.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Amazing! Let's take a
 break as a reward.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I agree. So just a moment.</Dialog>
           <Dialog>You did your best.</Dialog>
         </Dialogs>
@@ -989,7 +989,7 @@ give you a reward.</Dialog>
           <Dialog>Are you a little tired？
 Shall we drink something
 and relax？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right...</Dialog>
           <Dialog>I'll be in there soon,
 so take a break.</Dialog>
@@ -1029,7 +1029,7 @@ so take a break.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Maybe you're stuck？ Let's
 take a break and switch.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes... I'll do that.</Dialog>
           <Dialog>You also need to take
 a breather. Wait a minute.</Dialog>
@@ -1069,7 +1069,7 @@ a breather. Wait a minute.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hmm...maybe I should
 start over again.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Maybe so...</Dialog>
           <Dialog>I'll bring something,
 so let's take a break,
@@ -1313,7 +1313,7 @@ of this outfit, right？
           <Dialog>Sorry for keeping you
 waiting. Yes, this is
 it.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Wow... is this handmade？</Dialog>
           <Dialog>Yeah. Let's eat this
 and continue to work
@@ -1359,7 +1359,7 @@ hard after this.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Yes, what is this？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>handmade! Can I eat it？</Dialog>
           <Dialog>of course. I made it
 for you, so why not eat
@@ -1407,7 +1407,7 @@ I'll have it.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Thank you for waiting.
 Please enjoy this.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, handmade!</Dialog>
           <Dialog>Hehe, he looks happy.
 It's fine, eat it all.</Dialog>
@@ -1535,7 +1535,7 @@ coming to an end soon？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right. Studying
 is back.</Dialog>
           <Dialog>Nene</Dialog>
@@ -1564,7 +1564,7 @@ take a break.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's all for today.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>yes？ Well, it might be

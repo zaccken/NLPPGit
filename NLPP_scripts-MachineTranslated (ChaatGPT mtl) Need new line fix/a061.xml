@@ -234,7 +234,7 @@
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.
 good job.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲, you're tired.</Dialog>
           <Dialog>I was busy today too.</Dialog>
           <Dialog>As expected from ▲姉ヶ崎＊▲
@@ -255,7 +255,8 @@ a trip...</Dialog>
 Actually, I won the prize.
 Two days in Atami.</Dialog>
           <Dialog>picture？</Dialog>
-          <Dialog>●The two of us...
+          <Dialog>●
+The two of us...
 Don't you go？</Dialog>
           <Dialog>...Together？　
 Let's think about it
@@ -289,7 +290,8 @@ day...</Dialog>
 ▲月▲▲日▲
 Two days in one night!</Dialog>
           <Dialog>Haha, yes.</Dialog>
-          <Dialog>(● and ▲姉ヶ崎＊▲,
+          <Dialog>(● and 
+▲姉ヶ崎＊▲,
 Is it your first trip...？</Dialog>
         </Dialogs>
       </SDL2>
@@ -408,7 +410,7 @@ Is it your first trip...？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hmm, what？</Dialog>
@@ -707,7 +709,7 @@ You can go on a trip!
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Telephone...▲姉ヶ崎＊▲)</Dialog>
           <Dialog>Yes, what if.</Dialog>
           <Dialog>Nene</Dialog>
@@ -756,7 +758,8 @@ soon.</Dialog>
           <Dialog>Haha, are you so much
 looking forward to it？</Dialog>
           <Dialog>of course. Are you different？</Dialog>
-          <Dialog>No way. ●I'm really looking
+          <Dialog>No way. ●
+I'm really looking
 forward to it too!</Dialog>
           <Dialog>Hehe, that's right. Are
 you doing well until
@@ -858,7 +861,7 @@ the day？ Well then.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Ah, ▲姉ヶ崎＊▲. He's already
 here)</Dialog>
           <Dialog>Nene</Dialog>
@@ -1066,7 +1069,7 @@ other.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲, that hair...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Did you notice？ It would
@@ -1277,7 +1280,7 @@ a different one.)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲, that hair...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Did you respond properly？
@@ -1492,7 +1495,7 @@ a different one.)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲, that hair...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>It's a new nene. What
@@ -1556,7 +1559,7 @@ a different one.)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(By the way, today...)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>n/a. I can't believe
@@ -1708,7 +1711,7 @@ a day like this.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Okay, then shall we go？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Yes, leave.</Dialog>
@@ -1723,7 +1726,8 @@ vibe.</Dialog>
           <Dialog>Yes, it's a bit harsh.</Dialog>
           <Dialog>Is it cool？ Hehe, I don't
 dislike it.</Dialog>
-          <Dialog>Yeah. ●You might also
+          <Dialog>Yeah. ●
+You might also
 like it.</Dialog>
           <Dialog>Which one was the transfer？</Dialog>
           <Dialog>Umm...</Dialog>
@@ -1827,7 +1831,7 @@ of my precious trip.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲ luggage is quite
 small？</Dialog>
           <Dialog>Nene</Dialog>
@@ -1965,13 +1969,14 @@ to it？</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>you.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Wow! What... what？</Dialog>
           <Dialog>Hey, today we are newlyweds
 on our honeymoon. No,
 this kind of thing？</Dialog>
           <Dialog>(Hmm...)</Dialog>
-          <Dialog>●We're now
+          <Dialog>●
+We're now
 It's a honeymooner!</Dialog>
           <Dialog>That's embarrassing</Dialog>
           <Dialog>Hehe, you.</Dialog>
@@ -2131,7 +2136,7 @@ Very much for staying
 with us today.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Oh, you've arrived.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Okay, it's Atami!</Dialog>
           <Dialog>I can't hold back.</Dialog>
           <Dialog>We've arrived, Atami.</Dialog>
@@ -2141,7 +2146,8 @@ she nervous？</Dialog>
           <Dialog>Are you doing it？ But
 it's even more exciting
 than that.</Dialog>
-          <Dialog>Yes... Maybe ● too.</Dialog>
+          <Dialog>Yes... Maybe 
+● too.</Dialog>
           <Dialog>Let's have fun to the
 fullest.</Dialog>
           <Dialog>I remember a lot of things
@@ -2325,7 +2331,7 @@ fine.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Umm. First of all, where
 should I go？</Dialog>
           <Dialog>Nene</Dialog>
@@ -2447,7 +2453,7 @@ again？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, hey... that might
 be...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>picture？ Ah... "Treasure
 Museum", right？</Dialog>
           <Dialog>Have you heard it？ Do
@@ -2545,7 +2551,7 @@ shouldn't come in! Already...</Dialog>
           <Dialog>Hey, it seems like you
 can see the city of Atami
 from here.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Oh, which one.</Dialog>
           <Dialog>Ah, a nice view...</Dialog>
           <Dialog>That's true. Hmm, it
@@ -2695,7 +2701,7 @@ view.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right. Isn't it
 about lunchtime？</Dialog>
           <Dialog>Nene</Dialog>
@@ -3019,7 +3025,7 @@ just started.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is this Sun Beach？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I'll be getting changed.
@@ -3131,7 +3137,7 @@ places to go.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is the cherry blossoms
 in Atami famous？</Dialog>
           <Dialog>Nene</Dialog>
@@ -3237,7 +3243,7 @@ of things someday.</Dialog>
           <Dialog>Ah, a souvenir shop.
 Shall we take a quick
 look？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's fine, but... won't
 it be a piece of luggage
 if you buy it now？</Dialog>
@@ -3618,7 +3624,7 @@ it, do it...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Where is it next？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Well, it's Izuyama Shrine.</Dialog>
@@ -3644,7 +3650,8 @@ can do about it...</Dialog>
           <Dialog>Yeah…….</Dialog>
           <Dialog>Sorry, I'm not exercising
 anymore.</Dialog>
-          <Dialog>●It's the person who...</Dialog>
+          <Dialog>●
+It's the person who...</Dialog>
           <Dialog>ah! It's over!</Dialog>
           <Dialog>Haa... Thank you, for
 bringing your luggage.
@@ -3969,7 +3976,7 @@ to come!</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I've arrived.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Yes, I'm staying here.</Dialog>
@@ -3993,7 +4000,8 @@ thing if he's so in love.</Dialog>
 again today？</Dialog>
           <Dialog>I'm going to check in
 so you'll take your time.</Dialog>
-          <Dialog>That's fine, ● says it
+          <Dialog>That's fine, 
+● says it
 will do it.</Dialog>
           <Dialog>Okay, let me do it？</Dialog>
           <Dialog>？</Dialog>
@@ -4220,7 +4228,7 @@ name.</Dialog>
           <Dialog>Please take your time.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Yes, thank you very much.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Huh？</Dialog>
           <Dialog>▲姉ヶ崎＊▲, the room...</Dialog>
           <Dialog>Yes, it's here？</Dialog>
@@ -4313,12 +4321,13 @@ it's so cute.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Wow, calm down.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I'll make tea.</Dialog>
           <Dialog>Ah, sorry.
-● Just relax.</Dialog>
+● 
+Just relax.</Dialog>
           <Dialog>That's fine. Sit down.</Dialog>
           <Dialog>Yes, thank you.</Dialog>
           <Dialog>I'll make tea.
@@ -4397,9 +4406,10 @@ were every day.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
-          <Dialog>▲姉ヶ崎＊▲. ●We'll explore
-inside the hotel.</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>▲姉ヶ崎＊▲. 
+● We'll 
+explore inside the hotel.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>It's coming... on your
 own？</Dialog>
@@ -4491,7 +4501,7 @@ their trips, right？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hehe, you're relaxing.</Dialog>
@@ -4577,7 +4587,7 @@ date...</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Whew...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>what happened？ Are you
 tired after all？</Dialog>
           <Dialog>That's true, but it seems
@@ -4804,7 +4814,7 @@ was delicious too...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>There's still time until
 I eat. Shall I take a
 bath first？</Dialog>
@@ -5115,7 +5125,7 @@ cool too</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Oh, I'm ready.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>It's gorgeous. Hmm, I
@@ -5351,7 +5361,7 @@ again...</Dialog>
           <Dialog>There's a table tennis
 table here. Why not give
 it a try？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Table tennis...</Dialog>
           <Dialog>It's a battle!</Dialog>
           <Dialog>bothersome</Dialog>
@@ -5623,7 +5633,7 @@ that's fine.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Oh, is there an open-air
 bath？ I think I'll invite
 you to ▲姉ヶ崎＊▲ too)</Dialog>
@@ -5916,7 +5926,7 @@ I'll leave soon...)</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>what？</Dialog>
           <Dialog>Did you know there is
 a private bath？ Why not
@@ -6156,7 +6166,7 @@ say it)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(By the way ▲姉ヶ崎＊▲, he
 said that the view at
 night would be beautiful.)</Dialog>
@@ -6527,7 +6537,7 @@ up...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲. Fireworks are
 beginning.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I see. It's summer and
 it's on the beach.</Dialog>
           <Dialog>You're going to see it,
@@ -6697,7 +6707,7 @@ wanted to see it.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲, let's go back
 to our room soon.</Dialog>
           <Dialog>Nene</Dialog>
@@ -6849,7 +6859,7 @@ it carefully...)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Will the lights be turned
 off soon？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, please.</Dialog>
           <Dialog>I... I've been together
 all day, and I still
@@ -7000,7 +7010,7 @@ earlier, right？</Dialog>
           <Dialog>good morning!</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Ahh!</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Wow!</Dialog>
           <Dialog>good morning. Did you
 sleep well last night？</Dialog>
@@ -7084,7 +7094,7 @@ the wrong time.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>....</Dialog>
           <Dialog>Hmm...</Dialog>
           <Dialog>Nene</Dialog>
@@ -7248,7 +7258,7 @@ a while...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>....</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Are you still sleeping？</Dialog>
@@ -7475,7 +7485,7 @@ than ever...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>yeah……. Hmm...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲. good morning.</Dialog>
@@ -7630,7 +7640,7 @@ to eat.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>After all, when it comes
 to breakfast at a hotel,
 it's a buffet.</Dialog>
@@ -7754,7 +7764,7 @@ in the others.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>From here, you can get
 to Hatsushima.</Dialog>
           <Dialog>Nene</Dialog>
@@ -7922,7 +7932,7 @@ one after another？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Oh, it's pretty fast.
 It feels good.</Dialog>
           <Dialog>Nene</Dialog>
@@ -8048,7 +8058,7 @@ shutter？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Oh, I've arrived.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>It's lovely to see an
@@ -8151,7 +8161,7 @@ it. The legendary beach.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Oh, there's a shrine.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>This is Hatsuki Shrine.</Dialog>
@@ -8308,7 +8318,7 @@ legend of the beach.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>The lighthouse... You
 can climb up.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Wow.</Dialog>
           <Dialog>It's not that expensive.
 Shall we try climbing？</Dialog>
@@ -8527,7 +8537,7 @@ like that...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>The legendary beach is
 not found.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yeah…….</Dialog>
           <Dialog>He doesn't look like
 that. It's a bit disappointing,
@@ -8542,7 +8552,8 @@ with you.</Dialog>
           <Dialog>what？</Dialog>
           <Dialog>Can't you hear the sound
 of the waves？</Dialog>
-          <Dialog>●For...</Dialog>
+          <Dialog>● 
+For...</Dialog>
           <Dialog>I can hear it. This one.</Dialog>
           <Dialog>▲姉ヶ崎＊▲？</Dialog>
           <Dialog>The legendary beach was
@@ -8820,7 +8831,7 @@ it's a legend.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>It really happened. The
 legendary beach...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah... it's not on the
 map.</Dialog>
           <Dialog>Beautiful. It doesn't
@@ -9156,7 +9167,7 @@ love it.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>This is the legendary
 beach...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, I'm sure it is.</Dialog>
           <Dialog>....</Dialog>
           <Dialog>Are you watching？</Dialog>
@@ -9181,7 +9192,8 @@ been together so much.</Dialog>
           <Dialog>It's fast, it's gone
 by in a flash. I want
 to be with you more.</Dialog>
-          <Dialog>●And too...</Dialog>
+          <Dialog>●
+And too...</Dialog>
           <Dialog>That's weird, they both
 feel the same way.</Dialog>
           <Dialog>I wonder why it doesn't
@@ -9490,7 +9502,7 @@ forget it forever, even
           <Dialog>Nene</Dialog>
           <Dialog>The legendary beach...
 Beautiful...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, that's amazing...</Dialog>
           <Dialog>....</Dialog>
           <Dialog>Hey, it's a shame that
@@ -9682,7 +9694,7 @@ like.</Dialog>
           <Dialog>He came again... A place
 where the two of them
 remember.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yeah…….</Dialog>
           <Dialog>It's beautiful after
 all. Same as the scenery
@@ -9781,7 +9793,7 @@ love with you more？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm. Is the trip coming
 to an end soon？</Dialog>
           <Dialog>Nene</Dialog>
@@ -9921,9 +9933,10 @@ time.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Oh, I have to buy a souvenir.</Dialog>
-          <Dialog>○○○○</Dialog>
-          <Dialog>That's right. ●What should
-I do...？</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
+          <Dialog>That's right. 
+●
+What should I do...？</Dialog>
           <Dialog>Who will you buy it？</Dialog>
           <Dialog>I think it's just my
 school friends, my neighbors,
@@ -9994,7 +10007,7 @@ of review.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲Sa. Has it burned
 quite a bit？</Dialog>
           <Dialog>Nene</Dialog>
@@ -10104,7 +10117,7 @@ come.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I'm really tired. Maybe
 I'll go to sleep.</Dialog>
           <Dialog>Nene</Dialog>
@@ -10222,7 +10235,7 @@ station.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Hey.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>yeah？</Dialog>
           <Dialog>It's the first time we've
 been together for so
@@ -10335,7 +10348,7 @@ further.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Thank you, I sent it.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, then... this is
 really the end of the
 trip.</Dialog>
@@ -10368,7 +10381,7 @@ trip.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(By the way, today...)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, there's nothing
@@ -10516,7 +10529,7 @@ important yet.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(After the trip, on my
 way home alone...it's
 kind of sad)</Dialog>
@@ -10575,7 +10588,7 @@ you？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Now, let's go.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Yes... you.</Dialog>
@@ -10604,7 +10617,7 @@ you？</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>You're going？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>ah.</Dialog>
         </Dialogs>
       </SDL2>
@@ -10631,7 +10644,7 @@ you？</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Let's go, you.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>ah.</Dialog>
         </Dialogs>
       </SDL2>
@@ -10691,7 +10704,7 @@ you？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>picture？</Dialog>
@@ -10738,7 +10751,7 @@ obvious to kiss.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>....</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Wow.</Dialog>
           <Dialog>Hehe, there's a gap.
 Are you newlyweds？</Dialog>
@@ -10788,7 +10801,7 @@ Are you newlyweds？</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>what？</Dialog>
           <Dialog>Wow.</Dialog>
           <Dialog>Hehe, say hello.</Dialog>
@@ -11596,7 +11609,7 @@ left to do.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>...What is it？ Has there
 anything you need？</Dialog>
           <Dialog>Nene</Dialog>
@@ -11698,7 +11711,7 @@ Hehe, thank you.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>...What is it？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>...Hmm. That's right.
@@ -11802,7 +11815,7 @@ yes, it's a reward.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Umm... what is it？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>There's a special chocolate
@@ -11917,7 +11930,7 @@ I'm so happy.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Huh, what is it？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Look, today is your birthday,
@@ -12029,7 +12042,7 @@ your taste... right？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What is it...？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Well... today is your
@@ -12153,13 +12166,14 @@ that was right.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Today... what was it？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Well... today is the
 day when you're approaching
 another adult.</Dialog>
-          <Dialog>●'s birthday...</Dialog>
+          <Dialog>●'s 
+birthday...</Dialog>
           <Dialog>Hehe, that's correct.
 For those who answer
 correctly... yes, a present.</Dialog>
@@ -12336,7 +12350,7 @@ my mother.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Oh, what's wrong？</Dialog>
@@ -12370,7 +12384,8 @@ I'm still impressed.</Dialog>
           <Dialog>Hehe, I'm sorry. But
 I'm really happy. I'm
 so happy...</Dialog>
-          <Dialog>I'm happy that....● would
+          <Dialog>I'm happy that....
+● would
 be happy.</Dialog>
           <Dialog>...I hope I can celebrate
 my birthday with you
@@ -12537,7 +12552,7 @@ it...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's it.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Oh, what's wrong？</Dialog>
@@ -12561,7 +12576,8 @@ to educate a little more？</Dialog>
 happy...)</Dialog>
           <Dialog>But the present was great...</Dialog>
           <Dialog>That's not the case.
-In fact, ● is your boyfriend...</Dialog>
+In fact, ● 
+is my boyfriend...</Dialog>
           <Dialog>Hehe, can I say that？
 My birthday is actually
 tomorrow.</Dialog>
@@ -12749,7 +12765,7 @@ and I'm happy too.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Oh, what's wrong？</Dialog>
@@ -12954,7 +12970,7 @@ for the present.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I see, today...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Today is the day we started
@@ -13178,7 +13194,7 @@ we'll become closer again...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, really...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>We started dating on
@@ -13192,14 +13208,16 @@ that such an older, silly
 lady wouldn't be treated
 to.</Dialog>
           <Dialog>That's not possible.
-●It's about ▲姉ヶ崎＊▲...</Dialog>
+● It's 
+about ▲姉ヶ崎＊▲...</Dialog>
           <Dialog>Hehe, thank you. Let's
 continue to be friends
 forever.</Dialog>
           <Dialog>And I'd give it an anniversary
 present.</Dialog>
-          <Dialog>Yes, thank you. ●From
-too...</Dialog>
+          <Dialog>Yes, thank you. 
+●
+From too...</Dialog>
           <Dialog>So, let's exchange.</Dialog>
           <Dialog>Yeah…….</Dialog>
           <Dialog>....</Dialog>
@@ -13410,7 +13428,7 @@ now!</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I agree.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Today is the anniversary
@@ -13431,8 +13449,9 @@ that feeling from now
 on, right？ n/a.</Dialog>
           <Dialog>And... an anniversary
 present from me.</Dialog>
-          <Dialog>thank you. ●It's also
-from there.</Dialog>
+          <Dialog>thank you. 
+●
+It's also from there.</Dialog>
           <Dialog>Hehe, I can exchange
 it.</Dialog>
           <Dialog>Yeah…….</Dialog>

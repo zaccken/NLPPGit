@@ -49,7 +49,7 @@
           <Dialog>Nene</Dialog>
           <Dialog>I would like to hear
 this for reference.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm, what？</Dialog>
           <Dialog>Which do you prefer for
 breakfast, bread or rice？</Dialog>
@@ -94,7 +94,7 @@ breakfast, bread or rice？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is it dinner？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>That's right. It's worth
@@ -140,7 +140,7 @@ breakfast？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's bread.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>So maybe I'll serve freshly
@@ -186,7 +186,7 @@ it.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Maybe dinner in the morning.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Huh, are you bored of
@@ -231,7 +231,7 @@ bread？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>The bread is good.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Oh, has it changed？</Dialog>
@@ -289,7 +289,7 @@ some time on other things.</Dialog>
 your dietary preferences？
 Japanese food, Western
 food, Chinese food, etc.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>●What is my preference...</Dialog>
           <Dialog>It's Japanese cuisine</Dialog>
           <Dialog>Western food</Dialog>
@@ -318,7 +318,7 @@ food, Chinese food, etc.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I like Japanese food.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Japanese food, right？
@@ -362,7 +362,7 @@ tasty.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Maybe it's Japanese food...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>is that so. Depending
@@ -395,7 +395,7 @@ have to train...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I think Western food
 is my favorite.</Dialog>
           <Dialog>Nene</Dialog>
@@ -439,7 +439,7 @@ I understand.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I like Western food,
 or whatever.</Dialog>
           <Dialog>Nene</Dialog>
@@ -472,7 +472,7 @@ okay, I'll practice.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm, I like Chinese food.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Okay, Chinese. If so,
@@ -515,7 +515,7 @@ leave it to me.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Chinese food is good.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>...Chinese...</Dialog>
@@ -546,7 +546,7 @@ is the thing.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>My favorite genre is
 something else...</Dialog>
           <Dialog>Nene</Dialog>
@@ -591,7 +591,7 @@ think about things.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I don't think I like
 ● in the present...it
 feels even different.</Dialog>
@@ -631,7 +631,7 @@ it...</Dialog>
           <Dialog>Just say one of my favorite
 foods lately. What do
 you like？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Umm...</Dialog>
         </Dialogs>
       </SDL2>
@@ -646,7 +646,7 @@ you like？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲メニュー▲ Maybe it's.</Dialog>
         </Dialogs>
       </SDL2>
@@ -675,7 +675,7 @@ you like？</Dialog>
           <Dialog>I see. So, I have to
 put that into my repertoire
 too.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes! Because I'm looking
 forward to it.</Dialog>
         </Dialogs>
@@ -705,7 +705,7 @@ forward to it.</Dialog>
           <Dialog>I love it that much.
 Are you particular about
 it？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's not the case,
 but it's not particularly
 different.</Dialog>
@@ -736,7 +736,7 @@ different.</Dialog>
           <Dialog>It was a different answer
 before. Did you fall
 in love with that too？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well, I think I like
 this one right now.</Dialog>
         </Dialogs>
@@ -787,7 +787,7 @@ this one right now.</Dialog>
 a little unusual, but
 do you prefer the length
 of a girl's sock？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>The length of the socks？</Dialog>
           <Dialog>A shorter one is better</Dialog>
           <Dialog>It's fine to have a normal
@@ -817,7 +817,7 @@ length</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Why not try it shorter？
 Isn't it good to have
 a lively feel？</Dialog>
@@ -847,7 +847,7 @@ kind of thing？ I see.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Well, the normal length
 would be better, right？</Dialog>
           <Dialog>Nene</Dialog>
@@ -876,7 +876,7 @@ feel strange.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Maybe a long one is better.
 Somehow.</Dialog>
           <Dialog>Nene</Dialog>
@@ -906,7 +906,7 @@ so it looks fun.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Isn't it good to pair
 it with clothes and look
 good？</Dialog>
@@ -971,7 +971,7 @@ too.</Dialog>
 there's anything you
 want to say to me, be
 honest.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What do you want to say...？</Dialog>
           <Dialog>I said a lot when I got
 into a fight, right？
@@ -1035,7 +1035,7 @@ that's why…….</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, can you be honest？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Hmm, what's that？</Dialog>
           <Dialog>I think I said something
 harsh when we got into
@@ -1100,7 +1100,7 @@ a fight...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Me... I'm regretting
 it.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>introspection？</Dialog>
           <Dialog>The other day, I made
 people feel bad about
@@ -1149,7 +1149,7 @@ it</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's fine, a fight.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>What!？ That's fine...</Dialog>
@@ -1199,7 +1199,7 @@ Yeah…….</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I think that was good,
 isn't it？</Dialog>
           <Dialog>Nene</Dialog>
@@ -1250,7 +1250,7 @@ though.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Rather, I don't hate
 it. So you don't have
 to regret it.</Dialog>
@@ -1300,7 +1300,7 @@ You're so kind, my boyfriend.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's fine because I don't
 care.</Dialog>
           <Dialog>Nene</Dialog>
@@ -1348,7 +1348,7 @@ continued support.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>●I don't care.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>It's not like you don't
@@ -1396,7 +1396,7 @@ I'll do that. thank you.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's fine now. I think
 we both regretted it
 quite a bit.</Dialog>
@@ -1446,7 +1446,7 @@ with you in the future.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Actually, it was a little
 bit painful.</Dialog>
           <Dialog>Nene</Dialog>
@@ -1495,7 +1495,7 @@ be more kind...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Of course, I was a bit
 hurt.</Dialog>
           <Dialog>Nene</Dialog>
@@ -1545,7 +1545,7 @@ anymore.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I certainly felt bad
 back then...</Dialog>
           <Dialog>Nene</Dialog>
@@ -1612,7 +1612,7 @@ to cheer up.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>There's something I want
 to ask.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>yeah？ what？</Dialog>
           <Dialog>As expected...As a boyfriend,
 it's better to have a
@@ -1661,7 +1661,7 @@ good</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Of course I'd be happy
 if you're good at it.
 I love eating delicious
@@ -1713,7 +1713,7 @@ really think is delicious.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's normal and fine.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Is it normal？ Why？</Dialog>
@@ -1762,7 +1762,7 @@ that.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Isn't it okay to be bad？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>……Why？</Dialog>

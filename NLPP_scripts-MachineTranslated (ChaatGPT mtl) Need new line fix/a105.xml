@@ -25,7 +25,7 @@
           <Dialog>Yes, I thought I wanted
 to do that too. Has your
 thoughts reached you？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Haha, it's telepathic.</Dialog>
         </Dialogs>
       </SDL2>
@@ -55,7 +55,7 @@ thoughts reached you？</Dialog>
 after I get home. Sorry
 I'll just go home with
 you.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Understood. So let's
 go.</Dialog>
         </Dialogs>
@@ -84,7 +84,7 @@ go.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Yes, that's a good place.
 That's where it was decided.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>So let's go right now.</Dialog>
         </Dialogs>
       </SDL2>
@@ -111,7 +111,7 @@ That's where it was decided.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Yes, it's fine, there.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>So let's leave.</Dialog>
         </Dialogs>
       </SDL2>
@@ -138,7 +138,7 @@ That's where it was decided.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Ah, yes. ...That's fine.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's okay, it's sure
 to be fun.</Dialog>
         </Dialogs>
@@ -168,7 +168,7 @@ to be fun.</Dialog>
           <Dialog>That's right. I thought
 I'd go because I invited
 him.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Okay, then where is the
 destination...</Dialog>
         </Dialogs>
@@ -198,7 +198,7 @@ destination...</Dialog>
           <Dialog>Sorry I have to do something.
 I can do it at least
 go home together though.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>So, I'll hold back on
 that for today.</Dialog>
         </Dialogs>
@@ -227,7 +227,7 @@ that for today.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hmm, did you come there？
 That's fine, I passed.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>yes？ good. So here.</Dialog>
         </Dialogs>
       </SDL2>
@@ -254,7 +254,7 @@ That's fine, I passed.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Yes, isn't that safe？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>So let's go here.</Dialog>
         </Dialogs>
       </SDL2>
@@ -281,7 +281,7 @@ That's fine, I passed.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Hmm, is that there？ Umm...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Let's go, let's go.</Dialog>
         </Dialogs>
       </SDL2>
@@ -310,7 +310,7 @@ That's fine, I passed.</Dialog>
           <Dialog>Why can you say that
 at this time？ I'm going
 home.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Of course, I'm in a
 bad mood)</Dialog>
         </Dialogs>
@@ -340,7 +340,7 @@ bad mood)</Dialog>
           <Dialog>Are you going straight
 home？ Hey, if you'd like,
 why not go and play somewhere？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>●Huh...</Dialog>
         </Dialogs>
       </SDL2>
@@ -389,7 +389,7 @@ that way</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>TRUE？ good. Because it
 was sudden.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>● is always OK. So, where
 shall we go？</Dialog>
         </Dialogs>
@@ -419,7 +419,7 @@ shall we go？</Dialog>
           <Dialog>I see, it was abrupt...
 Is it okay to go home
 with me？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, of course.</Dialog>
         </Dialogs>
       </SDL2>
@@ -447,7 +447,7 @@ with me？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Oh, there was. It was
 too late, so I was worried.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's already this much
 time. sorry.</Dialog>
         </Dialogs>
@@ -477,7 +477,7 @@ time. sorry.</Dialog>
           <Dialog>What do you think about
 making your girlfriend
 come to visit？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲... Sorry, I'm
 late in preparation.</Dialog>
         </Dialogs>
@@ -506,7 +506,7 @@ late in preparation.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Here it is. Wasn't you
 ready yet？ Do it quickly？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>He went out of his way
 to come. sorry.</Dialog>
         </Dialogs>
@@ -532,7 +532,7 @@ to come. sorry.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Huh, ▲姉ヶ崎＊▲？ Did you
 go out of your way to
 come？</Dialog>
@@ -563,7 +563,7 @@ time.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲？ If he had told
 me, I would have gone
 from here.</Dialog>
@@ -600,7 +600,7 @@ I wanted to come.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲. I came to pick
 you up, I couldn't wait.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>thank you. I'll prepare
 it soon.</Dialog>
         </Dialogs>
@@ -673,7 +673,7 @@ it soon.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Oh, ▲姉ヶ崎＊▲, he came to
 pick me up.</Dialog>
           <Dialog>Male student</Dialog>
@@ -741,7 +741,7 @@ bit. That's all？</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Oh, here it is.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(▲姉ヶ崎＊▲, with friends...)</Dialog>
           <Dialog>Umm, hello.</Dialog>
           <Dialog>Asari</Dialog>
@@ -810,7 +810,7 @@ it's me.</Dialog>
         <Dialogs>
           <Dialog>？ ？ ？</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲...</Dialog>
           <Dialog>(Huh？ Not there. I certainly
 could hear a voice, right？)</Dialog>
@@ -876,7 +876,7 @@ it once, right？</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲! This is here.</Dialog>
           <Dialog>What!？ Sorry!</Dialog>
           <Dialog>what happened？</Dialog>
@@ -938,7 +938,7 @@ though...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲, here it is.</Dialog>
           <Dialog>Male student</Dialog>
           <Dialog>Hey, this person is your
@@ -1004,7 +1004,7 @@ you tell me？</Dialog>
           <Dialog>Female Student 2</Dialog>
           <Dialog>Ah, Anegasaki-senpai.
 It's super beautiful...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(You can hear it...)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, those kids seem
@@ -1049,7 +1049,7 @@ you, right？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Huh, ▲姉ヶ崎＊▲？ What were
 you doing？</Dialog>
           <Dialog>Nene</Dialog>
@@ -1103,7 +1103,7 @@ it as a reference..."</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>The guy over there is
 something looking at
 here, right？</Dialog>
@@ -1169,7 +1169,7 @@ after all...)</Dialog>
           <Dialog>Asari</Dialog>
           <Dialog>Is it another lose？ So,
 enjoy your date too!</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>...What does winning
 or losing mean？</Dialog>
           <Dialog>I was competing with
@@ -1214,7 +1214,7 @@ boyfriend came first.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲. ...Is it something
 lost？</Dialog>
           <Dialog>Nene</Dialog>
@@ -1278,7 +1278,7 @@ in the staff room？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Oh, my cell phone is
 down...)</Dialog>
           <Dialog>Nene</Dialog>
@@ -1337,7 +1337,7 @@ terrible...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Haha, did you drop a
 handkerchief？</Dialog>
           <Dialog>Nene</Dialog>
@@ -1387,7 +1387,7 @@ you bring.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>So, shall we go？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Ah, sorry. It's an alarm.</Dialog>
@@ -1437,7 +1437,7 @@ nothing. Are you okay.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>It's an email, wait a
 minute. ...Haha.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>what happened？</Dialog>
           <Dialog>From the old lady at
 a candy store. "You don't
@@ -1494,7 +1494,7 @@ products？)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Maybe it's not yet...</Dialog>
           <Dialog>(From ▲姉ヶ崎＊▲？ Is it delayed？)</Dialog>
           <Dialog>Nene</Dialog>
@@ -1557,7 +1557,7 @@ attention♪</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲...What is that
 like？</Dialog>
           <Dialog>(Are you reading books
@@ -1626,7 +1626,7 @@ dangerous.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah... dangerous!</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>What？!？</Dialog>
@@ -1679,7 +1679,7 @@ it a trick to make love？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Huh, ▲姉ヶ崎＊▲？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>sorry. I found some cutlet
@@ -1738,7 +1738,7 @@ Dexis menu.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It was late. Was there
 a problem too？</Dialog>
           <Dialog>Nene</Dialog>
@@ -1823,7 +1823,7 @@ aiming for ▲姉ヶ崎＊▲...</Dialog>
           <Dialog>Waiting for girlfriend？
 She's such a beautiful
 girlfriend.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>mother. Well.</Dialog>
           <Dialog>Oh, if you're going to
 have a rumor. Well then.</Dialog>
@@ -1910,7 +1910,7 @@ it's a misunderstanding!</Dialog>
           <Dialog>▲主人公＊▲.</Dialog>
           <Dialog>Female student</Dialog>
           <Dialog>Vivai.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, bye bye. Thank you
 for waiting, ▲姉ヶ崎＊▲.</Dialog>
           <Dialog>…………</Dialog>
@@ -1981,7 +1981,7 @@ it.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>...Shuh.</Dialog>
@@ -2035,7 +2035,7 @@ situation？</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>So let's go... ah!</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What, what？</Dialog>
           <Dialog>There was a stray raccoon.
 Ah, I wanted to take
@@ -2085,7 +2085,7 @@ wrong)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is this smell... curry？
 I wonder if the cooking
 club is making it...</Dialog>
@@ -2148,7 +2148,7 @@ to take a peek？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Huh...▲姉ヶ崎＊▲, it's too
 late.)</Dialog>
           <Dialog>(It's really late...
@@ -2212,7 +2212,7 @@ me, ▲姉ヶ崎＊▲...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(...I'm over there, ▲姉ヶ崎＊▲.
 Why haven't you come
 over here？)</Dialog>
@@ -2279,7 +2279,7 @@ to make me wait？)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲.</Dialog>
           <Dialog>teacher</Dialog>
           <Dialog>Hey, Anegasaki!</Dialog>
@@ -2342,7 +2342,7 @@ much on ▲姉ヶ崎＊▲...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It looks like they're
 fighting over there...
 Let's leave a little.</Dialog>
@@ -2415,7 +2415,7 @@ mood and have fun!</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Oops…….</Dialog>
           <Dialog>Male office worker</Dialog>
           <Dialog>rude.</Dialog>
@@ -2468,7 +2468,7 @@ to look forward to it.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>●There are other couples
 as well.</Dialog>
           <Dialog>Nene</Dialog>
@@ -2522,7 +2522,7 @@ is just a couple.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>...That couple is kissing
 them publicly at this
 point...</Dialog>
@@ -2594,7 +2594,7 @@ you, right？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Look, that person looks
 a bit like you somehow.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Is that so？</Dialog>
           <Dialog>They look similar. Around
 the nose, etc. Around
@@ -2648,7 +2648,7 @@ you're definitely better.</Dialog>
 in front of the school
 gates just now？ Have
 you reached this point？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Maybe jogging？</Dialog>
           <Dialog>I see, guys go on a diet
 too. Yes yes.</Dialog>
@@ -2717,7 +2717,7 @@ to dieting...)</Dialog>
 now？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>picture？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>No, there are two of
 them.</Dialog>
           <Dialog>Twice.</Dialog>
@@ -2768,7 +2768,7 @@ me. It was cool.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(...Wow. That woman looks
 amazing...)</Dialog>
           <Dialog>Nene</Dialog>
@@ -2822,7 +2822,7 @@ girls. copper？</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Huh, something behind
 the scenes...</Dialog>
           <Dialog>Nene</Dialog>
@@ -2880,7 +2880,7 @@ case...)</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Sorry, on a date. I'll
 finish it quickly.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>(Who is it from...)</Dialog>
           <Dialog>picture？ Was it a wrong
 call？</Dialog>
@@ -2958,7 +2958,7 @@ too popular...)</Dialog>
 there.</Dialog>
           <Dialog>A woman</Dialog>
           <Dialog>thank you.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, sorry.</Dialog>
           <Dialog>That guy had a baby in
 his belly.</Dialog>
@@ -3008,7 +3008,7 @@ delicate matter.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>No, I forgot!</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What, what？!</Dialog>
           <Dialog>Today was a half price
 sale at the supermarket...
@@ -3071,7 +3071,7 @@ knows how to save money...)</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Hehe.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>What, what？</Dialog>
           <Dialog>Did you notice that the
 girl I just passed by
@@ -3126,7 +3126,7 @@ necessary, right？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Right, can I stop by
 an ATM？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>of course. ▲姉ヶ崎＊▲ seems
 to have solid management
 of deposits.</Dialog>
@@ -3174,7 +3174,7 @@ account books normal...)</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah...▲姉ヶ崎＊▲, this one.
 There was a life guidance
 teacher!</Dialog>
@@ -3247,7 +3247,7 @@ bad？</Dialog>
         <Dialogs>
           <Dialog>Male student</Dialog>
           <Dialog>Right. Are you on a date？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, well.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Thank you.</Dialog>
@@ -3282,7 +3282,7 @@ It's like running away...</Dialog>
           <Dialog>I'm sad to see you at
 school tomorrow... Can
 I call or email later？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>of course. Well then.</Dialog>
         </Dialogs>
       </SDL2>
@@ -3310,7 +3310,7 @@ I call or email later？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Goodbye...but I'll see
 you again tomorrow.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>oh yeah. Again at school.</Dialog>
         </Dialogs>
       </SDL2>
@@ -3337,7 +3337,7 @@ you again tomorrow.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Well then. Again at school.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yeah. bye bye.</Dialog>
         </Dialogs>
       </SDL2>
@@ -3367,7 +3367,7 @@ you again tomorrow.</Dialog>
 tomorrow. It's a day
 off, so I can stay with
 you forever.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right...</Dialog>
         </Dialogs>
       </SDL2>
@@ -3395,7 +3395,7 @@ you forever.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Well then. I'm off tomorrow,
 but don't laze？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>You know. see you later.</Dialog>
         </Dialogs>
       </SDL2>
@@ -3422,7 +3422,7 @@ but don't laze？</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Then again, the holidays...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I'll contact you again.
 That's it.</Dialog>
         </Dialogs>

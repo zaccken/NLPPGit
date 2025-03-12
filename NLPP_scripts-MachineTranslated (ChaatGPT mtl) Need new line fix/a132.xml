@@ -151,7 +151,7 @@ it.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>It's better to finish
 it soon.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah... that's right.</Dialog>
         </Dialogs>
       </SDL2>
@@ -179,7 +179,7 @@ it soon.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, haven't you already
 taken enough photos？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I see, it had been quite
 a while since I last
 heard.</Dialog>
@@ -209,7 +209,7 @@ heard.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>That's all for this time.
 Continue next time.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, I'll just go with
 that much.</Dialog>
         </Dialogs>
@@ -237,7 +237,7 @@ that much.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>So far, maybe.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, taking just this
 picture would be enough.</Dialog>
         </Dialogs>
@@ -267,7 +267,7 @@ picture would be enough.</Dialog>
           <Dialog>Hehe, you took a lot
 of pictures, haven't
 you？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes... I'm satisfied.</Dialog>
         </Dialogs>
       </SDL2>
@@ -295,7 +295,7 @@ you？</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>disappointing. Take a
 picture like this again.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>ah. I took a picture
 of it today with all
 my might.</Dialog>
@@ -326,7 +326,7 @@ my might.</Dialog>
           <Dialog>Isn't it about time to
 finish？ I'm sure you're
 getting tired too.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>...Maybe so. So let's
 end it.</Dialog>
         </Dialogs>
@@ -355,7 +355,7 @@ end it.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>stop. It's about time,
 isn't it？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah... sorry, I ended
 up forgetting myself
 and taking pictures.</Dialog>
@@ -385,7 +385,7 @@ and taking pictures.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, let's finish it
 now.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Oh, I see. I might have
 taken a little too much.</Dialog>
         </Dialogs>
@@ -413,7 +413,7 @@ taken a little too much.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>copper？ Are you satisfied？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>ah. Well, that's all
 for this time.</Dialog>
         </Dialogs>
@@ -442,7 +442,7 @@ for this time.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>You were working hard.
 Did it go well？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That might be fun later.</Dialog>
         </Dialogs>
       </SDL2>
@@ -469,7 +469,7 @@ Did it go well？</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Oh, how was it？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Are you okay. Because
 I took lots of photos.</Dialog>
         </Dialogs>
@@ -498,7 +498,7 @@ I took lots of photos.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Um, I guess it's fine
 now...？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah, sorry. I've been
 keeping taking pictures
 of them all the time.</Dialog>
@@ -528,7 +528,7 @@ of them all the time.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Hey, do you realize I'm
 tired？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>picture？ Ah, sorry...</Dialog>
         </Dialogs>
       </SDL2>
@@ -555,7 +555,7 @@ tired？</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Sorry, I'm a little tired.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I see... So let's go
 that far.</Dialog>
         </Dialogs>
@@ -584,7 +584,7 @@ that far.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Wow, I'm probably a little
 nervous. Sorry.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Next time, let's go even
 more casually.</Dialog>
         </Dialogs>
@@ -613,7 +613,7 @@ more casually.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>Haha, maybe I need more
 practice？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes...well, this time
 here.</Dialog>
         </Dialogs>
@@ -641,7 +641,7 @@ here.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Wow, it's finished...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>●I might be tired, too...</Dialog>
         </Dialogs>
       </SDL2>
@@ -669,7 +669,7 @@ here.</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>The photos are nice,
 but I also want to chat.</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's right... I'll
 refrain a bit.</Dialog>
         </Dialogs>
@@ -699,7 +699,7 @@ refrain a bit.</Dialog>
           <Dialog>Cameras, cameras... your
 girlfriend isn't just
 a camera, right？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Ah... that's right.</Dialog>
         </Dialogs>
       </SDL2>
@@ -728,7 +728,7 @@ a camera, right？</Dialog>
           <Dialog>If I keep taking pictures,
 I can't talk, which makes
 me feel a little sad...</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>sorry…….</Dialog>
         </Dialogs>
       </SDL2>
@@ -755,7 +755,7 @@ me feel a little sad...</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Sorry... could you stop？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Understood... sorry.</Dialog>
         </Dialogs>
       </SDL2>
@@ -783,7 +783,7 @@ me feel a little sad...</Dialog>
           <Dialog>Nene</Dialog>
           <Dialog>I don't want any more.
 You know, don't you？</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes... I guess I got
 too cocky.</Dialog>
         </Dialogs>
@@ -811,7 +811,7 @@ too cocky.</Dialog>
         <Dialogs>
           <Dialog>Nene</Dialog>
           <Dialog>Too much shot. Oh!</Dialog>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Sorry...</Dialog>
         </Dialogs>
       </SDL2>
@@ -1869,7 +1869,7 @@ properly.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, it feels good.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1884,7 +1884,7 @@ properly.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I've become quite used
 to taking photos.</Dialog>
         </Dialogs>
@@ -1900,7 +1900,7 @@ to taking photos.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲, you've got a
 good feeling.</Dialog>
         </Dialogs>
@@ -1916,7 +1916,7 @@ good feeling.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Oh, this might be good.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1931,7 +1931,7 @@ good feeling.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>That's a good angle.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1946,7 +1946,7 @@ good feeling.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Yes, perfect.</Dialog>
         </Dialogs>
       </SDL2>
@@ -1961,7 +1961,7 @@ good feeling.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>A good photographer won't
 miss out on the chance
 to take the shutter.</Dialog>
@@ -1978,7 +1978,7 @@ to take the shutter.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I'll take some good photos
 today too!</Dialog>
         </Dialogs>
@@ -1994,7 +1994,7 @@ today too!</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Looks like he's in good
 shape today.</Dialog>
         </Dialogs>
@@ -2010,7 +2010,7 @@ shape today.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I hope I get a good photo.</Dialog>
         </Dialogs>
       </SDL2>
@@ -2025,7 +2025,7 @@ shape today.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲ Let's do our best
 too!</Dialog>
         </Dialogs>
@@ -2041,7 +2041,7 @@ too!</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I think I'll do a little
 adventure today.</Dialog>
         </Dialogs>
@@ -2057,7 +2057,7 @@ adventure today.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲ is getting quite
 used to it too.</Dialog>
         </Dialogs>
@@ -2073,7 +2073,7 @@ used to it too.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Okay, let's cheer up
 the mood!</Dialog>
         </Dialogs>
@@ -2089,7 +2089,7 @@ the mood!</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Oh, a chance to take
 the shutter.</Dialog>
         </Dialogs>
@@ -2105,7 +2105,7 @@ the shutter.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>▲姉ヶ崎＊▲ from this angle
 isn't bad either.</Dialog>
         </Dialogs>
@@ -2121,7 +2121,7 @@ isn't bad either.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Huh？ The focus doesn't
 fit well...</Dialog>
         </Dialogs>
@@ -2137,7 +2137,7 @@ fit well...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>If ● isn't strong, it
 will make ▲姉ヶ崎＊▲ nervous.</Dialog>
         </Dialogs>
@@ -2153,7 +2153,7 @@ will make ▲姉ヶ崎＊▲ nervous.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Photography is surprisingly
 difficult.</Dialog>
         </Dialogs>
@@ -2169,7 +2169,7 @@ difficult.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I wonder how to take
 a picture to make it
 look beautiful.</Dialog>
@@ -2186,7 +2186,7 @@ look beautiful.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I hope I can take a proper
 picture...</Dialog>
         </Dialogs>
@@ -2202,7 +2202,7 @@ picture...</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>Since it's a celebration
 of this, I have to work
 hard.</Dialog>
@@ -2219,7 +2219,7 @@ hard.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>It's fine as long as
 you take a picture calmly...
 Probably.</Dialog>
@@ -2236,7 +2236,7 @@ Probably.</Dialog>
           </Entry>
         </Unknown>
         <Dialogs>
-          <Dialog>○○○○</Dialog>
+          <Dialog>○○○○○○○○</Dialog>
           <Dialog>I never thought I would
 be so nervous to take
 a picture...</Dialog>
